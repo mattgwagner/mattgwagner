@@ -7,7 +7,7 @@ title: Matt G. Wagner - Curriculum Vitae
 
 ## Matt G. Wagner
 
-**Code:** [GitHub](http://github.com/mattgwagner) or [BitBucket](http://code.mattgwagner.com)  
+**Code:** [GitHub](http://github.com/mattgwagner)
 **Profile:** [stackoverflow](http://careers.stackoverflow.com/mattgwagner)  
 **Web:** [www.mattgwagner.com](http://mattgwagner.com)  
 **Email:** [MattGWagner@Gmail.com](mailto:MattGWagner@Gmail.com)  
