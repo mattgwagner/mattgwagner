@@ -21,11 +21,12 @@ title: Matt G. Wagner - Curriculum Vitae
 * Source Control: Git, Mercurial, Subversion, SourceGear Vault  
 * Build Systems: MSBuild and TeamCity  
 * Project Management & Planning: Redmine, FogBugz, OnTime, Unfuddle  
-* Experience with Redis, Powershell, Python, and Ruby  
-* Java/J2EE, Weblogic 10  
+* Experience with Powershell, Python, and Ruby  
+* Distributed Caching via Redis  
 * Microsoft SQL Server 2005/2008, T-SQL 
+* Java/J2EE, Weblogic 10  
 * Oracle, PL-SQL
-* Systems Administration, Microsoft Windows 2003-2008 R2 Server
+* Systems Administration, Microsoft Windows 2003-2012 Server
 
 ## Education
 
@@ -48,7 +49,7 @@ Intermural Crew Team - 2005
 ## Career
 
 ### ASR Pro - Raleigh, NC (Remote Worker)
-**Software Engineer** - November, 2012 - Present
+**Software Engineer** - July 2012 - Present
 
 #### Technologies
 
@@ -73,24 +74,8 @@ Intermural Crew Team - 2005
 * Government-issued Security Clearance
 
 #### Training & Schools 
-C Battery, 1/40th FA, Basic Combat Training, Fort Sill, Oklahoma  
-3/211th Regional Training Institute, Officer Candidate School, Camp Blanding JTC, Florida  
-
-### AutoLoop - Clearwater, FL (Remote Worker)
-
-**Software Engineer** - August 2010 - September 2011, July, 2012 - November, 2012  
-
-#### Technologies
-
-ASP.NET, C#, SVN, Stored Procedures
-
-#### Roles & Responsibilities
-
-* Maintained and expanded a multi-tiered .NET application suite including ASP.NET front-ends and C# Web and Windows Services
-* Optimize processes across multiple database shards in a data-driven environment
-* Developed logging and error handling platform with web-accessible interface
-* Worked with QA and Support personnel to develop administrative interfaces and dashboards
-* Assisted in development of core data integration platform, allowing multi-threaded access to expedite data processing
+Basic Combat Training, Fort Sill, Oklahoma  
+Officer Candidate School, Camp Blanding JTC, Florida  
 
 ### MIDFLORIDA Credit Union - Lakeland, FL  
 **Developer II** - December, 2011 - July, 2012  
@@ -103,6 +88,22 @@ ASP.NET, C#, SVN, Stored Procedures
 * Utilized C#, VB.NET, ASP.net, ASP.net MVC
 * Experience with jQuery, JQTouch for mobile application development
 * Configured and used RSA's Adaptive Authentication product for analyzing fraud patterns in online banking
+
+### AutoLoop - Clearwater, FL (Remote Worker)
+
+**Software Engineer** - August 2010 - September 2011
+
+#### Technologies
+
+ASP.NET, C#, SVN, Stored Procedures
+
+#### Roles & Responsibilities
+
+* Maintained and expanded a multi-tiered .NET application suite including ASP.NET front-ends and C# Web and Windows Services
+* Optimize processes across multiple database shards in a data-driven environment
+* Developed logging and error handling platform with web-accessible interface
+* Worked with QA and Support personnel to develop administrative interfaces and dashboards
+* Assisted in development of core data integration platform, allowing multi-threaded access to expedite data processing
 
 ### JPMorganChase - Tampa, FL
 **Web Applications Developer** - June 2008 - August 2010  
