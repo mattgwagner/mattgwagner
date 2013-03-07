@@ -76,7 +76,7 @@ Intermural Crew Team - 2005
 
 #### Training & Schools 
 Basic Combat Training, Fort Sill, Oklahoma  
-Officer Candidate School, Camp Blanding JTC, Florida  
+Officer Candidate School, Regional Training Institute - Florida, Camp Blanding Joint Training Center
 
 ### MIDFLORIDA Credit Union - Lakeland, FL  
 **Developer II** - December, 2011 - July, 2012  
