@@ -49,7 +49,7 @@ Intermural Crew Team - 2005
 ## Career
 
 ### ASR Pro - Raleigh, NC (Remote Worker)
-**Software Engineer** - July 2012 - Present
+**Senior Software Engineer** - July 2012 - Present
 
 #### Technologies
 
@@ -65,6 +65,7 @@ Intermural Crew Team - 2005
 * Designed unit tests and utilitized static code analysis to help team improve overall code quality and consistency
 * Helped develop interview questions in order to screen developer applicants
 * Implemented application-wide error logging mechanism to aid production debugging
+* Helped lead development reviews and architecture planning for future scaling.
 
 ### Florida Army National Guard 
 **Officer Candidate** - September, 2011 - Present  
