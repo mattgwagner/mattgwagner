@@ -19,14 +19,14 @@ title: Matt G. Wagner - Curriculum Vitae
 
 * Primary Language: C# / .NET
 * Source Control: Git, Mercurial, Subversion, SourceGear Vault  
-* Build Systems: MSBuild and TeamCity  
+* Build Systems: PowerShell, MSBuild, TeamCity, Hudson  
 * Project Management & Planning: Redmine, FogBugz, OnTime, Unfuddle  
 * Experience with Powershell, Python, Ruby and (unfortunately) VB.net  
 * Distributed Caching via Redis  
-* Microsoft SQL Server 2005/2008, T-SQL 
+* Microsoft SQL Server 2005/2008, T-SQL, Entity Framework  
 * Java/J2EE, Weblogic 10  
 * Oracle, PL-SQL
-* Systems Administration: Microsoft Windows 2003-2012 Server, Ubuntu
+* Systems Administration: Microsoft Windows 2003-2012R2 Server, Ubuntu
 
 ## Education
 
@@ -35,7 +35,7 @@ title: Matt G. Wagner - Curriculum Vitae
 
 Graduated: May, 2009  
 Florida Academic Scholars - Bright Futures Scholarship recipient  
-Men's Varsity Baseball - Pitcher, 2006 - 2007  
+Men's Varsity Baseball, 2006 - 2007  
 Intermural Crew Team - 2005  
 
 ##### Major Curriculum (Abbreviated)
@@ -53,10 +53,11 @@ Intermural Crew Team - 2005
 
 #### Technologies
 
-* ASP.NET, ASP.NET MVC, C# 4.5
+* ASP.NET, ASP.NET MVC, C# 4.5  
+* Entity Framework  
 * Microsoft SQL Server 2008/2012, Stored Procedures / t-SQL
 * MSBuild, XUnit, PowerShell, TeamCity
-* Git SCM
+* Git/GitHub SCM
 
 #### Roles & Responsibilities
 
@@ -68,15 +69,16 @@ Intermural Crew Team - 2005
 * Helped lead development reviews and architecture planning for future scaling.
 
 ### Florida Army National Guard 
-**Officer Candidate** - September, 2011 - Present  
+**Fire Direction Officer, Field Artillery - Lieutenant** - September, 2011 - Present  
 
 * Instruction in leadership, organization, and risk management  
-* Training in firearms, explosives, and military tactics  
 * Government-issued Security Clearance
+* Training in firearms, explosives, and military tactics  
 
 #### Training & Schools 
 Basic Combat Training, Fort Sill, Oklahoma  
 Officer Candidate School, Regional Training Institute - Florida, Camp Blanding Joint Training Center
+Field Artillery Basic Officer Leadership Course, Fort Sill, Oklahoma
 
 ### MIDFLORIDA Credit Union - Lakeland, FL  
 **Developer II** - December, 2011 - July, 2012  
