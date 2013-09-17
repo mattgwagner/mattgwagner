@@ -11,7 +11,7 @@ I like reading about how other people use technology and applications in their d
 I'm Matt Wagner, a Software Developer working out of my home office in Lakeland, FL. I've worked in software for about five years, spreading my time between .NET and Java shops. My alter ego is as an Officer Candidate attending OCS for the Florida Army National Guard.
 
 **What hardware are you using?**  
-My home office has two pretty solid development machines running Windows 7 Ultimate. My desktop is a quad-core AMD Phenom II with 8GB of RAM and a 128 GB SSD. Once you get an SSD, you'll never go back. The desktop powers two 23" monitors. The desktop sites side-by-side with a laptop dedicated to work (Intel Core i7, 8GB of RAM, hybrid SSD HDD) powering an external 23" monitor. Both of these machines are controlled via one keyboard and mouse a la Synergy (software KVM).
+My home office has two pretty solid development machines running Windows 8.1 Professional. My desktop is a quad-core AMD Phenom II with 16GB of RAM and a 128 GB SSD. Once you get an SSD, you'll never go back. The desktop powers two 23" monitors. The desktop sites side-by-side with a laptop dedicated to work (Intel Core i7, 8GB of RAM, hybrid SSD HDD) powering an external 23" monitor. Both of these machines are controlled via one keyboard and mouse a la Synergy (software KVM).
 
 I have a Microsoft Comfort Curve keyboard at both home and the office. I couldn't stand the original wireless iMac keyboard, so the Comfort Curve was a great, small expense. I'm not picky about mice, but I was struggling to get used to the Magic Mouse and went back to a general Dell OEM mouse.
 I receive e-mail on my beat up HTC Incredible, which is badly in need of replacement due to a badly cracked screen.
@@ -31,7 +31,7 @@ I'm a [Pandora](http://pandora.com) junkie, as I have it on every computer, TV, 
 
 I'm in love with my [Kindle Fire](http://amazon.com). I have gotten through 15 or so books in the 3-4 months I've owned it, and it's also great to sync articles with another love, [Instapaper](http://instapaper.com). All of the articles I come across on Google Reader get synched into Instapaper for later reading on the Kindle.
 
-I version my code using Mercurial via [BitBucket](http://bitbucket.org/mattgwagner) and TortoiseHG. I'm also experienced enough to be dangerous using Git, and started sharing projects at [GitHub](http://github.com/mattgwagner).
+I version my code using Git and [GitHub](http://github.com/mattgwagner). 
 
 I remember everything on my to do and grocery lists with [Remember the Milk](http://rememberthemilk.com), synced to my phone.
 
