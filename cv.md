@@ -25,7 +25,6 @@ title: Matt G. Wagner - Curriculum Vitae
 * Distributed Caching via Redis  
 * Microsoft SQL Server 2005/2008, T-SQL, Entity Framework  
 * Java/J2EE, Weblogic 10  
-* Oracle, PL-SQL
 * Systems Administration: Microsoft Windows 2003-2012R2 Server, Ubuntu
 
 ## Education
@@ -53,11 +52,13 @@ Intermural Crew Team - 2005
 
 #### Technologies
 
-* ASP.NET, ASP.NET MVC, C# 4.5  
+* ASP.NET, MVC, C#
 * Entity Framework  
 * Microsoft SQL Server 2008/2012, Stored Procedures / t-SQL
-* MSBuild, XUnit, PowerShell, TeamCity
-* Git/GitHub SCM
+* MSBuild, XUnit.net, PowerShell, TeamCity
+* Git/GitHub
+* Redis
+* WCF, ServiceStack
 
 #### Roles & Responsibilities
 
@@ -69,10 +70,10 @@ Intermural Crew Team - 2005
 * Helped lead development reviews and architecture planning for future scaling.
 
 ### Florida Army National Guard 
-**Fire Direction Officer, Field Artillery - Lieutenant** - September, 2011 - Present  
+**Fire Direction Officer, Field Artillery** - September, 2011 - Present  
 
 * Instruction in leadership, organization, and risk management  
-* Government-issued Security Clearance
+* Security Clearance
 * Training in firearms, explosives, and military tactics  
 
 #### Training & Schools 
