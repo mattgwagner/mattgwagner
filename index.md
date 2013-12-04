@@ -5,13 +5,13 @@ title: Matt G. Wagner
 
 # Welcome
 
+<img src="/images/Mountains.JPG" />
+
 This is the home page and resume site of Matt Wagner, a software developer from Lakeland, Florida. On these pages are a bit about myself, the work I've done and projects I've worked on, and a little background to how I got where I am now. 
 
 Please visit the [Contact](/contactme.html) page for more information on how to get in touch with me.
 
 # About Me
-
-<img src="/images/Mountains.JPG" />
 
 I am a 26 year old software developer from Tampa, FL. I grew up in Lakeland, FL before moving to attend the University of South Florida in Tampa. I am married to my best friend, Amanda, and we share a home with our pit bull mix, Demi.
 
