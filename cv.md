@@ -27,24 +27,6 @@ title: Matt G. Wagner - Curriculum Vitae
 * Java/J2EE, Weblogic 10  
 * Systems Administration: Microsoft Windows 2003-2012R2 Server, Ubuntu
 
-## Education
-
-### University of South Florida - Tampa, FL
-**Degree: B.S. Computer Information Systems**  
-
-Graduated: May, 2009  
-Florida Academic Scholars - Bright Futures Scholarship recipient  
-Men's Varsity Baseball, 2006 - 2007  
-Intermural Crew Team - 2005  
-
-##### Major Curriculum (Abbreviated)
-* Software Engineering
-* Database Design
-* Software Testing
-* Information Security
-* Web Application Development
-* Financial & Managerial Accounting
-
 ## Career
 
 ### ASR Pro - Raleigh, NC (Remote Worker)
@@ -135,3 +117,21 @@ ASP.NET, C#, SVN, Stored Procedures
 
 * Assisted faculty and students in utilizing Blackboard academic content management system
 * Provided in-person, phone, instant message, and e-mail technical support for any campus academic technology issue
+
+## Education
+
+### University of South Florida - Tampa, FL
+**Degree: B.S. Computer Information Systems**  
+
+Graduated: May, 2009  
+Florida Academic Scholars - Bright Futures Scholarship recipient  
+Men's Varsity Baseball, 2006 - 2007  
+Intermural Crew Team - 2005  
+
+##### Major Curriculum (Abbreviated)
+* Software Engineering
+* Database Design
+* Software Testing
+* Information Security
+* Web Application Development
+* Financial & Managerial Accounting
