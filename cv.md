@@ -18,13 +18,12 @@ title: Matt G. Wagner - Curriculum Vitae
 ## Technical Skills
 
 * Primary Language: C# / .NET
+* Experience with Powershell, Python, Java, Ruby and (unfortunately) VB.net  
 * Source Control: Git, Mercurial, Subversion, SourceGear Vault  
 * Build Systems: PowerShell, MSBuild, TeamCity, Hudson  
 * Project Management & Planning: Redmine, FogBugz, OnTime, Unfuddle  
-* Experience with Powershell, Python, Ruby and (unfortunately) VB.net  
 * Distributed Caching via Redis  
 * Microsoft SQL Server 2005/2008, T-SQL, Entity Framework  
-* Java/J2EE, Weblogic 10  
 * Systems Administration: Microsoft Windows 2003-2012R2 Server, Ubuntu
 
 ## Career
