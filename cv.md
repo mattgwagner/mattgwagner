@@ -65,13 +65,15 @@ Field Artillery Basic Officer Leadership Course, Fort Sill, Oklahoma
 ### MIDFLORIDA Credit Union - Lakeland, FL  
 **Developer II** - December, 2011 - July, 2012  
 
+#### Technologies
+
+ASP.NET, C#, VB.net, Subversion, Stored Procedures, Redmine
+
 #### Roles & Responsibilities
 
-* Implemented development toolchain to include coordination between Redmine issue tracker, SVN source control, and TeamCity automated builds  
+* Implemented development tool-chain to include coordination between Redmine issue tracker, SVN source control, and TeamCity automated builds  
 * Maintained and improved online banking suite of customer-facing applications
 * Localized mobile banking application to aid Spanish speaking users
-* Utilized C#, VB.NET, ASP.net, ASP.net MVC
-* Experience with jQuery, JQTouch for mobile application development
 * Configured and used RSA's Adaptive Authentication product for analyzing fraud patterns in online banking
 
 ### AutoLoop - Clearwater, FL (Remote Worker)
