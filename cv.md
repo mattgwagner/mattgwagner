@@ -120,9 +120,8 @@ ASP.NET, C#, SVN, Stored Procedures
 ## Education
 
 ### University of South Florida - Tampa, FL
-**Degree: B.S. Computer Information Systems**  
+**Degree: B.S. Computer Information Systems** - Graduated May, 2009 
 
-Graduated: May, 2009  
 Florida Academic Scholars - Bright Futures Scholarship recipient  
 Men's Varsity Baseball, 2006 - 2007  
 Intermural Crew Team - 2005  
