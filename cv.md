@@ -43,12 +43,12 @@ title: Matt G. Wagner - Curriculum Vitae
 
 #### Roles & Responsibilities
 
+* Helped lead development reviews and architecture planning for future scaling.
 * Restructured data access layer library and implemented cross-application caching using Redis to improve performance
 * Built automated build and deployment system utilizing MSBuild, TeamCity, and PowerShell that resulted in a vast increase in development speed
 * Designed unit tests and utilitized static code analysis to help team improve overall code quality and consistency
 * Helped develop interview questions in order to screen developer applicants
 * Implemented application-wide error logging mechanism to aid production debugging
-* Helped lead development reviews and architecture planning for future scaling.
 
 ### Florida Army National Guard 
 **Fire Direction Officer, Field Artillery** - September, 2011 - Present  
