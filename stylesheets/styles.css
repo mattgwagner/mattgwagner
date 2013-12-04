@@ -46,7 +46,7 @@ a small {
 }
 
 .wrapper {
-  width:860px;
+  width:920px;
   margin:0 auto;
 }
 
@@ -57,12 +57,8 @@ blockquote {
   font-style:italic;
 }
 
-img {
-  max-width:100%;
-}
-
 header {
-  width:180px;
+  width:200px;
   float:left;
   position:fixed;
 }
@@ -104,11 +100,6 @@ header ul a {
   height:40px;
 }
 
-strong {
-  color:#222;
-  font-weight:700;
-}
-
 header ul li + li {
   width:88px;
   border-left:1px solid #fff;
@@ -126,7 +117,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:600px;
   float:right;
   padding-bottom:25px;
 }
