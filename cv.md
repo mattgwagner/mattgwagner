@@ -46,7 +46,7 @@ title: Matt G. Wagner - Curriculum Vitae
 * Helped lead development reviews and architecture planning for future scaling.
 * Restructured data access layer library and implemented cross-application caching using Redis to improve performance
 * Built automated build and deployment system utilizing MSBuild, TeamCity, and PowerShell that resulted in a vast increase in development speed
-* Designed unit tests and utilitized static code analysis to help team improve overall code quality and consistency
+* Designed unit tests and utilized static code analysis to help team improve overall code quality and consistency
 * Helped develop interview questions in order to screen developer applicants
 * Implemented application-wide error logging mechanism to aid production debugging
 
@@ -97,10 +97,10 @@ ASP.NET, C#, SVN, Stored Procedures
 
 #### Roles & Responsibilities
 
-* Helped design multi-tier java web-based business application running on clustered WebLogic 10 servers
-* Lead team workshops on J2EE best-practices on topics such as source control, bug tracking, exception handling, and event logging
-* Lead Developer on several long-term projects involving teams on-site and overseas in Mumbai, India
-* Attended JPMorganChase Corporate Development Program (CDP) Core Training in New York City on fundamentals of project management, finance, and team leadership
+* Attended JPMorganChase Corporate Development Program (CDP) Core Training in New York City on fundamentals of project management, finance, and team leadership  
+* Helped design multi-tier java web-based business application running on clustered WebLogic 10 servers  
+* Lead team workshops on J2EE best-practices on topics such as source control, bug tracking, exception handling, and event logging  
+* Lead Developer on several long-term projects involving teams on-site and overseas in Mumbai, India  
 
 ### University of South Florida Controller's Office - Tampa, FL
 **IT Systems Support** - May 2007 - May 2008   

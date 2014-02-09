@@ -18,11 +18,11 @@ My home office has two pretty solid development machines running Windows 8.1 Pro
 I have a Microsoft Comfort Curve keyboard at both home and the office. I couldn't stand the original wireless iMac keyboard, so the Comfort Curve was a great, small expense. I'm not picky about mice, but I was struggling to get used to the Magic Mouse and went back to a general Dell OEM mouse.
 I receive e-mail on my beat up HTC Incredible, which is badly in need of replacement due to a badly cracked screen.
 
-My wife and I watch tv and movies streaming over our X-Box 360 Media Center in the living room and a [Roku](http://roku.com) box stashed away in the bedroom. 
+My wife and I watch tv and movies streaming over our [Roku](http://roku.com) box. 
 
 ### And what software?
 
-I do most of my development in Visual Studio 2012, at both work and at home. I've kind of become entrenched into the VS experience, and C# is my most fluent language. I use it for a few pet projects kicking around, probably deployed to AppHarbor.
+I do most of my development in Visual Studio 2013, at both work and at home. I've kind of become entrenched into the VS experience, and C# is my most fluent language. I use it for a few pet projects kicking around, probably deployed to AppHarbor.
 
 I'm a fan of Notepad++ to do any text editing and occasional HTML/Markdown coding, like building this website. I do the majority of my browsing in the dev channel of Google Chrome. Some extensions that are necessities are [LastPass](http://lastpass.com), [Xmarks](http://xmarks.com), Google Voice, and Evernote.
 
@@ -38,7 +38,7 @@ I version my code using Git and [GitHub](http://github.com/mattgwagner).
 
 I remember everything on my to do and grocery lists with [Remember the Milk](http://rememberthemilk.com), synced to my phone.
 
-[Mint](http://mint.com) helps me track all of my finances and budgetting.
+[Mint](http://mint.com) helps me track all of my finances and budgeting.
 
 ### What would be your dream setup?
 
