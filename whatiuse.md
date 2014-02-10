@@ -16,7 +16,7 @@ I'm Matt Wagner, a Software Developer working out of my home office in Lakeland,
 My home office has two pretty solid development machines running Windows 8.1 Professional. My desktop is a quad-core AMD Phenom II with 16GB of RAM and a 128 GB SSD. Once you get an SSD, you'll never go back. The desktop powers two 23" monitors. The desktop sites side-by-side with a laptop dedicated to work (Intel Core i7, 8GB of RAM, hybrid SSD HDD) powering an external 23" monitor. Both of these machines are controlled via one keyboard and mouse a la Synergy (software KVM).
 
 I have a Microsoft Comfort Curve keyboard at both home and the office. I couldn't stand the original wireless iMac keyboard, so the Comfort Curve was a great, small expense. I'm not picky about mice, but I was struggling to get used to the Magic Mouse and went back to a general Dell OEM mouse.
-I receive e-mail on my beat up HTC Incredible, which is badly in need of replacement due to a badly cracked screen.
+I receive e-mail on my Nexus 4 from Google.
 
 My wife and I watch tv and movies streaming over our [Roku](http://roku.com) box from NetFlix and Plex Media Server.
 

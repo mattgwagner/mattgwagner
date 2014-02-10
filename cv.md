@@ -17,13 +17,13 @@ title: Matt G. Wagner - Curriculum Vitae
 
 ## Technical Skills
 
-* Primary Language: C# / .NET
-* Experience with Powershell, Python, Java, Ruby and (unfortunately) VB.net  
-* Source Control: Git, Mercurial, Subversion, SourceGear Vault  
-* Build Systems: PowerShell, MSBuild, TeamCity, Hudson  
+* Primary Language / Ecosystem: C# / .NET
+* Experience with Powershell, Python, Java  
+* Source Control: Git, Mercurial, Subversion  
+* Build Systems: PowerShell, MSBuild, TeamCity, Jenkins  
 * Project Management & Planning: Redmine, FogBugz, OnTime, Unfuddle  
 * Distributed Caching via Redis  
-* Microsoft SQL Server 2005/2008, T-SQL, Entity Framework  
+* Microsoft SQL Server using T-SQL, Entity Framework  
 * Systems Administration: Microsoft Windows 2003-2012R2 Server, Ubuntu
 
 ## Career
@@ -43,12 +43,11 @@ title: Matt G. Wagner - Curriculum Vitae
 
 #### Roles & Responsibilities
 
-* Helped lead development reviews and architecture planning for future scaling.
+* Lead development reviews and architecture planning for future scaling
 * Restructured data access layer library and implemented cross-application caching using Redis to improve performance
 * Built automated build and deployment system utilizing MSBuild, TeamCity, and PowerShell that resulted in a vast increase in development speed
-* Designed unit tests and utilized static code analysis to help team improve overall code quality and consistency
-* Helped develop interview questions in order to screen developer applicants
-* Implemented application-wide error logging mechanism to aid production debugging
+* Developed interview questions in order to screen developer applicants
+* Implemented application-wide distributed error logging mechanism to aid production debugging
 
 ### Florida Army National Guard 
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
