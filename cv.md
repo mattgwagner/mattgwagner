@@ -7,7 +7,7 @@ title: Matt G. Wagner - Curriculum Vitae
 
 ## Matt G. Wagner
 
-**Email:** MattGWagner@Gmail.com  
+**Email:** MattGWagner at gmail dot com  
 **Mobile:** 813-413-6839  
 **Code:** [GitHub](http://github.com/mattgwagner)  
 **Profile:** [stackoverflow](http://careers.stackoverflow.com/mattgwagner)  
@@ -35,7 +35,7 @@ title: Matt G. Wagner - Curriculum Vitae
 
 * ASP.NET, MVC, C#
 * Entity Framework  
-* Microsoft SQL Server 2008/2012, Stored Procedures / t-SQL
+* Microsoft SQL Server 2008/2012, Stored Procedures / T-SQL
 * MSBuild, XUnit.net, PowerShell, TeamCity
 * Git/GitHub
 * Redis
@@ -48,6 +48,7 @@ title: Matt G. Wagner - Curriculum Vitae
 * Built automated build and deployment system utilizing MSBuild, TeamCity, and PowerShell that resulted in a vast increase in development speed
 * Developed interview questions in order to screen developer applicants
 * Implemented application-wide distributed error logging mechanism to aid production debugging
+* Designed developer workflow using GitHub Pull Requests for Code Reviews
 
 ### Florida Army National Guard 
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
