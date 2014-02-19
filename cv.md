@@ -50,17 +50,17 @@ title: Matt G. Wagner - Curriculum Vitae
 * Implemented application-wide distributed error logging mechanism to aid production debugging
 * Designed developer workflow using GitHub Pull Requests for Code Reviews
 
-### Florida Army National Guard 
-**MOS 13A, Field Artillery Officer** - September, 2011 - Present  
+### U.S. Army, Florida Army National Guard 
+**MOS 13A, Field Artillery** - September, 2011 - Present  
 
 * Instruction in leadership, organization, and risk management  
 * Security Clearance
 * Training in firearms, explosives, and military tactics  
 
 #### Training & Schools 
-* Field Artillery Basic Officer Leadership Course, Fort Sill, Oklahoma
-* Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  
-* Basic Combat Training, Fort Sill, Oklahoma
+* Field Artillery Basic Officer Leadership Course, Fort Sill, Oklahoma (2014)  
+* Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
+* Basic Combat Training, Fort Sill, Oklahoma  (2011)
 
 ### MIDFLORIDA Credit Union - Lakeland, FL  
 **Developer II** - December, 2011 - July, 2012  
