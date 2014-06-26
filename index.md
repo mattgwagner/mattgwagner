@@ -13,7 +13,7 @@ Please visit the [Contact](/contactme) page for more information on how to get i
 
 # About Me
 
-I am a 26 year old software developer from Tampa, FL. I grew up in Lakeland, FL before moving to attend the University of South Florida in Tampa. I am married to my best friend, Amanda, and we share a home with our pit bull mix, Demi.
+I am a 27 year old software developer from Tampa, FL. I grew up in Lakeland, FL before moving to attend the University of South Florida in Tampa. I am married to my best friend, Amanda, and we share a home with our pit bull mix, Demi.
 
 ## Career
 
