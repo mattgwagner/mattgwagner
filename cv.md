@@ -10,8 +10,8 @@ title: Matt G. Wagner - Curriculum Vitae
 **Email:** MattGWagner at gmail dot com  
 **Mobile:** 813-413-6839  
 **Code:** [GitHub](http://github.com/mattgwagner)  
-**Profile:** [stackoverflow](http://careers.stackoverflow.com/mattgwagner)  
 **Web:** [www.mattgwagner.com](http://mattgwagner.com)  
+**Profile:** [stackoverflow](http://careers.stackoverflow.com/mattgwagner)  
 
 ----------
 
@@ -20,7 +20,7 @@ title: Matt G. Wagner - Curriculum Vitae
 * Primary Language / Ecosystem: C# / .NET
 * Source Control: Git, Mercurial, Subversion  
 * Build & Deployment Systems: PowerShell, MSBuild, TeamCity, Jenkins  
-* Project Management & Planning: JIRA, Redmine, FogBugz, OnTime, Unfuddle  
+* Project Management & Planning: JIRA, Redmine, FogBugz, Unfuddle  
 * Experience with Powershell, Python, Java  
 * Distributed Caching via Redis  
 * Microsoft SQL Server using T-SQL, Entity Framework  
