@@ -18,28 +18,32 @@ title: Matt G. Wagner - Curriculum Vitae
 ## Technical Skills
 
 * Primary Language / Ecosystem: C# / .NET
-* Experience with Powershell, Python, Java  
 * Source Control: Git, Mercurial, Subversion  
-* Build Systems: PowerShell, MSBuild, TeamCity, Jenkins  
-* Project Management & Planning: Redmine, FogBugz, OnTime, Unfuddle  
+* Build & Deployment Systems: PowerShell, MSBuild, TeamCity, Jenkins  
+* Project Management & Planning: JIRA, Redmine, FogBugz, OnTime, Unfuddle  
+* Experience with Powershell, Python, Java  
 * Distributed Caching via Redis  
 * Microsoft SQL Server using T-SQL, Entity Framework  
 * Systems Administration: Microsoft Windows 2003-2012R2 Server, Ubuntu
 
 ## Career
 
-### ASR Pro - Raleigh, NC (Remote Worker)
-**Senior Software Engineer** - July 2012 - Present
+### DealerTrack Technologies, Inc (Remote Worker)
+**Lead Software Engineer** -- July 2014 - Present
+
+### ASR Pro, LLC (Acquired by DealerTrack in July 2014)
+**Senior Software Engineer** - July 2012 - July 2014
 
 #### Technologies
 
-* ASP.NET, MVC, C#
+* ASP.NET, MVC, C#, Windows Services
 * Entity Framework  
 * Microsoft SQL Server 2008/2012, Stored Procedures / T-SQL
 * MSBuild, XUnit.net, PowerShell, TeamCity
 * Git/GitHub
 * Redis
 * WCF, ServiceStack
+* STAR Standard (Standards for Technology in Automotive Retail)
 
 #### Roles & Responsibilities
 
@@ -49,6 +53,7 @@ title: Matt G. Wagner - Curriculum Vitae
 * Developed interview questions in order to screen developer applicants
 * Implemented application-wide distributed error logging mechanism to aid production debugging
 * Designed developer workflow using GitHub Pull Requests for Code Reviews
+* Developed scheduled jobs and integration processing service for primary data integration system
 
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery** - September, 2011 - Present  
