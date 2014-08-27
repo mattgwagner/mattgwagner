@@ -20,10 +20,9 @@ title: Matt G. Wagner - Curriculum Vitae
 * Primary Language / Ecosystem: C# / .NET
 * Source Control: Git, Mercurial, Subversion  
 * Build & Deployment Systems: PowerShell, MSBuild, TeamCity, Jenkins  
-* Project Management & Planning: JIRA, Redmine, FogBugz, Unfuddle  
+* Distributed Caching and Messaging via Redis  
+* Microsoft SQL Server using T-SQL, Entity Framework, Stored Procedures
 * Experience with Powershell, Python, Java  
-* Distributed Caching via Redis  
-* Microsoft SQL Server using T-SQL, Entity Framework  
 * Systems Administration: Microsoft Windows 2003-2012R2 Server, Ubuntu
 
 ## Professional Experience
@@ -37,35 +36,37 @@ title: Matt G. Wagner - Curriculum Vitae
 #### Technologies
 
 * ASP.NET, MVC, C#, Windows Services
-* Entity Framework  
-* Microsoft SQL Server 2008/2012, Stored Procedures / T-SQL
-* MSBuild, XUnit.net, PowerShell, TeamCity
+* Entity Framework, Stored Procedures / T-SQL
+* Microsoft SQL Server 2008/2012
+* MSBuild, PowerShell, TeamCity
 * Git/GitHub
-* Redis
+* Redis for distributed caching, message queue
 * WCF, ServiceStack
 * STAR Standard (Standards for Technology in Automotive Retail)
+* XUnit.net/NUnit
 
 #### Roles & Responsibilities
 
 * Lead development reviews and architecture planning for future scaling
-* Restructured data access layer library and implemented cross-application caching using Redis to improve performance
-* Built automated build and deployment system utilizing MSBuild, TeamCity, and PowerShell that resulted in a vast increase in development speed
-* Developed interview questions in order to screen developer applicants
-* Implemented application-wide distributed error logging mechanism to aid production debugging
-* Designed developer workflow using GitHub Pull Requests for Code Reviews
-* Developed scheduled jobs and integration processing service for primary data integration system
+* Restructured data access layer library and implemented dstributed caching using Redis to improve performance
+* Analyzed metrics and profiler output to optimize code paths and improve response times 25% over 20+ million requests per week
+* Built automated build and deployment system that resulted in a 10x increase in developer productivity and mean time to production
+* Developed interview questions in order to screen engineering applicants
+* Implemented distributed error logging mechanism to aid production debugging
+* Developed job queue and scheduled jobs to manage integration processing service in primary data integration system
 
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery** - September, 2011 - Present  
 
-* Instruction in leadership, organization, and risk management  
-* Security Clearance
+* Experience in organization leadership, personnel management, planning, and maintenance
+* Coordinated logistical support for 80+ personnnel in battery operation during field operations
+* U.S. Government Security Clearance
 * Training in firearms, explosives, and military tactics  
 
 #### Training & Schools 
-* Field Artillery Basic Officer Leadership Course, Fort Sill, Oklahoma (2014)  
+* Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
 * Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
-* Basic Combat Training, Fort Sill, Oklahoma  (2011)
+* Basic Combat Training, Fort Sill, OK  (2011)
 
 ### MIDFLORIDA Credit Union - Lakeland, FL  
 **Developer II** - December, 2011 - July, 2012  
@@ -103,26 +104,14 @@ ASP.NET, C#, SVN, Stored Procedures
 #### Roles & Responsibilities
 
 * Attended JPMorganChase Corporate Development Program (CDP) Core Training in New York City on fundamentals of project management, finance, and team leadership  
-* Helped design multi-tier java web-based business application running on clustered WebLogic 10 servers  
 * Lead team workshops on J2EE best-practices on topics such as source control, bug tracking, exception handling, and event logging  
 * Lead Developer on several long-term projects involving teams on-site and overseas in Mumbai, India  
 
 ### University of South Florida Controller's Office - Tampa, FL
 **IT Systems Support** - May 2007 - May 2008   
 
-#### Roles & Responsibilities
-
-* Configured and maintained a network of Windows PCs for 100+ personnel
-* Experience configuring and deploying inter-office instant messaging solution
-* Worked on-site with personnel to determine technical solutions to streamline business processes
-
 ### University of South Florida Academic Computing Help Desk - Tampa, FL
 **Student Technology Consultant** - January 2006 - December 2006  
-
-#### Roles & Responsibilities
-
-* Assisted faculty and students in utilizing Blackboard academic CMS
-* Provided in-person, phone, instant message, and e-mail technical support for any campus academic technology issue
 
 ## Education
 
