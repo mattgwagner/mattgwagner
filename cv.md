@@ -27,8 +27,26 @@ title: Matt G. Wagner - Curriculum Vitae
 
 ## Professional Experience
 
+### CertiPay - Winter Haven, FL (Remote Worker)
+**Senior Software Engineer** -- October 2014 - Present
+
+#### Technologies
+
+* ASP.NET, MVC, C#, Windows Services
+* Entity Framework
+* Microsoft SQL Server 2012
+* Octopus Deploy
+* PSake, MSBuild, PowerShell, TeamCity
+* Mercurial, BitBucket
+
+#### Roles & Responsibilities
+
+* Lead a greenfield complete re-write of the core customer-facing application
+* Designed and implemented automated build, test, and deployment system
+* Responsible for system architecture and planning
+
 ### DealerTrack Technologies, Inc (Remote Worker)
-**Lead Software Engineer** -- July 2014 - Present
+**Lead Software Engineer** -- July 2014 - October 2014
 
 ### ASR Pro, LLC (Acquired by DealerTrack in July 2014)
 **Senior Software Engineer** - July 2012 - July 2014
@@ -48,12 +66,13 @@ title: Matt G. Wagner - Curriculum Vitae
 #### Roles & Responsibilities
 
 * Lead development reviews and architecture planning for future scaling
-* Restructured data access layer library and implemented dstributed caching using Redis to improve performance
-* Analyzed metrics and profiler output to optimize code paths and improve response times 25% over 20+ million requests per week
+* Restructured data access layer library and implemented distributed caching using Redis to improve performance
+* Analysed metrics and profiler output to optimize code paths and improve response times 25% over 20+ million requests per week
 * Built automated build and deployment system that resulted in a 10x increase in developer productivity and mean time to production
 * Developed interview questions in order to screen engineering applicants
 * Implemented distributed error logging mechanism to aid production debugging
 * Developed job queue and scheduled jobs to manage integration processing service in primary data integration system
+* Produced OpenTrack.net, open source library available on GitHub and NuGet for interacting with third-party STAR-based web service
 
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery** - September, 2011 - Present  
