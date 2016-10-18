@@ -11,9 +11,8 @@ title: Matt G. Wagner - Curriculum Vitae
 **Mobile:** 813-413-6839  
 **Code:** [GitHub](http://github.com/mattgwagner)  
 **Web:** [www.mattgwagner.com](http://mattgwagner.com)  
-**Profile:** [stackoverflow](http://stackoverflow.com/cv/mattgwagner)  
 
-<a href="http://stackoverflow.com/users/51270/mattgwagner">
+<a href="http://stackoverflow.com/cv/mattgwagner">
 <img src="http://stackoverflow.com/users/flair/51270.png" width="208" height="58" alt="profile for MattGWagner at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MattGWagner at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
@@ -32,22 +31,36 @@ title: Matt G. Wagner - Curriculum Vitae
 ## Professional Experience
 
 ### CertiPay - Winter Haven, FL (Remote Worker)
-**Senior Software Engineer** -- October 2014 - Present
+**Principle Software Engineer** -- October 2014 - Present
 
 #### Technologies
 
-* ASP.NET, MVC, C#, Windows Services
-* Entity Framework
+* ASP.NET, MVC, C#, PowerShell
+* Service Oriented Architecture/Microservices via Nancy
+* Continuous Integration via TeamCity, Octopus Deploy
+* Entity Framework (Code First)
 * Microsoft SQL Server 2012
-* Octopus Deploy
-* PSake, MSBuild, PowerShell, TeamCity
-* Mercurial, BitBucket
+* GitHub/BitBucket
+* Automated testing via NUnit, Moq
 
 #### Roles & Responsibilities
 
-* Lead a greenfield complete re-write of the core customer-facing application
-* Designed and implemented automated build, test, and deployment system
+* Lead a greenfield complete re-write of the core customer-facing payroll application
+* Designed and implemented automated build, test, and deployment system to increase development velocity
 * Responsible for system architecture and planning
+
+### U.S. Army, Florida Army National Guard 
+**MOS 13A, Field Artillery** - September, 2011 - Present  
+
+* Experience in organization leadership, personnel management, planning, and maintenance
+* Coordinated logistical support for 80+ personnnel in battery operation during field operations
+* U.S. Government Security Clearance
+* Training in firearms, explosives, and military tactics  
+
+#### Training & Schools 
+* Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
+* Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
+* Basic Combat Training, Fort Sill, OK  (2011)
 
 ### DealerTrack Technologies, Inc (Remote Worker)
 **Lead Software Engineer** -- July 2014 - October 2014
@@ -64,7 +77,6 @@ title: Matt G. Wagner - Curriculum Vitae
 * Git/GitHub
 * Redis for distributed caching, message queue
 * WCF, ServiceStack
-* STAR Standard (Standards for Technology in Automotive Retail)
 * XUnit.net/NUnit
 
 #### Roles & Responsibilities
@@ -77,19 +89,6 @@ title: Matt G. Wagner - Curriculum Vitae
 * Implemented distributed error logging mechanism to aid production debugging
 * Developed job queue and scheduled jobs to manage integration processing service in primary data integration system
 * Produced OpenTrack.net, open source library available on GitHub and NuGet for interacting with third-party STAR-based web service
-
-### U.S. Army, Florida Army National Guard 
-**MOS 13A, Field Artillery** - September, 2011 - Present  
-
-* Experience in organization leadership, personnel management, planning, and maintenance
-* Coordinated logistical support for 80+ personnnel in battery operation during field operations
-* U.S. Government Security Clearance
-* Training in firearms, explosives, and military tactics  
-
-#### Training & Schools 
-* Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
-* Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
-* Basic Combat Training, Fort Sill, OK  (2011)
 
 ### MIDFLORIDA Credit Union - Lakeland, FL  
 **Developer II** - December, 2011 - July, 2012  
