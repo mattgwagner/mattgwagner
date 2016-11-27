@@ -42,18 +42,20 @@ title: Matt G. Wagner - Curriculum Vitae
 * Microsoft SQL Server 2012
 * GitHub/BitBucket
 * Automated testing via NUnit, Moq
+* Redis for Background Job Processing, Pub/Sub
 
 #### Roles & Responsibilities
 
 * Lead a greenfield complete re-write of the core customer-facing payroll application
-* Designed and implemented automated build, test, and deployment system to increase development velocity
+* Designed and implemented automated build, test, and deployment system to increase development velocity across the organization
 * Responsible for system architecture and planning
+* Designed support libraries to provide consolidated logging and debugging for our distributed systems
 
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery** - September, 2011 - Present  
 
 * Experience in organization leadership, personnel management, planning, and maintenance
-* Coordinated logistical support for 80+ personnnel in battery operation during field operations
+* Coordinated logistical support for 80+ personnnel in battery operation during field and hurricane-support operations
 * U.S. Government Security Clearance
 * Training in firearms, explosives, and military tactics  
 
