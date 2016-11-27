@@ -35,5 +35,4 @@ After ASRPro was acquired by DealerTrack in the summer of 2014, I accepted an of
 
 <img src="/images/AppalachianTrail.JPG" />
 
-In my free time, which seems to be less and less these days, I can probably be found reading somewhere around the house on my Kindle Fire. A gift from my wife for our one year wedding anniversary, I've plowed through more books in a shorter period of time by far then in physical books. I tend to carry it with me everywhere. 
-
+In my free time, which seems to be less and less these days, I can probably be found reading somewhere around the house on my Kindle or taking the kids to the park.
