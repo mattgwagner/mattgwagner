@@ -54,8 +54,8 @@ title: Matt G. Wagner - Curriculum Vitae
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery** - September, 2011 - Present  
 
-* Experience in organization leadership, personnel management, planning, and maintenance
-* Coordinated logistical support for 80+ personnnel in battery operation during field and hurricane-support operations
+* Experience in organizational leadership, personnel management, planning, and maintenance
+* Coordinated logistical support for 80+ personnnel during field and hurricane-support operations
 * U.S. Government Security Clearance
 * Training in firearms, explosives, and military tactics  
 
