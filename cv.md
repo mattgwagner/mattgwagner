@@ -9,8 +9,8 @@ title: Matt G. Wagner - Curriculum Vitae
 
 **Email:** MattGWagner at gmail dot com  
 **Mobile:** 813-413-6839  
-**Code:** [GitHub](http://github.com/mattgwagner)  
-**Web:** [www.mattgwagner.com](http://mattgwagner.com)  
+**Code:** [GitHub](https://github.com/mattgwagner)  
+**Web:** [MattGWagner.com](https://mattgwagner.com)  
 **Connect:** [LinkedIn](https://www.linkedin.com/in/mattgwagner)
 
 <a href="http://stackoverflow.com/cv/mattgwagner">
