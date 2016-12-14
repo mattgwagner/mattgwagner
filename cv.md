@@ -3,8 +3,6 @@ layout: default
 title: Matt G. Wagner - Curriculum Vitae
 ---
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 # Curriculum Vitae
 
 ## Matt G. Wagner
@@ -15,10 +13,12 @@ title: Matt G. Wagner - Curriculum Vitae
 **Web:** [www.mattgwagner.com](http://mattgwagner.com)  
 
 <a href="http://stackoverflow.com/cv/mattgwagner">
-<img src="http://stackoverflow.com/users/flair/51270.png" width="208" height="58" alt="profile for MattGWagner at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MattGWagner at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  <img src="http://stackoverflow.com/users/flair/51270.png" width="208" height="58" alt="profile for MattGWagner at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MattGWagner at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="matt-wagner-360a20134"><a class="LI-simple-link" href='https://www.linkedin.com/in/matt-wagner-360a20134?trk=profile-badge'>Matt Wagner</a></div>
+<a href="https://www.linkedin.com/pub/matt-wagner/134/a20/360">
+  <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Matt Wagner's profile on LinkedIn">
+</a>
 
 ----------
 
