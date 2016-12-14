@@ -11,13 +11,10 @@ title: Matt G. Wagner - Curriculum Vitae
 **Mobile:** 813-413-6839  
 **Code:** [GitHub](http://github.com/mattgwagner)  
 **Web:** [www.mattgwagner.com](http://mattgwagner.com)  
+**LinkedIn** [LinkedIn](https://www.linkedin.com/in/mattgwagner)
 
 <a href="http://stackoverflow.com/cv/mattgwagner">
   <img src="http://stackoverflow.com/users/flair/51270.png" width="208" height="58" alt="profile for MattGWagner at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MattGWagner at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-
-<a href="https://www.linkedin.com/pub/matt-wagner/134/a20/360">
-  <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Matt Wagner's profile on LinkedIn">
 </a>
 
 ----------
