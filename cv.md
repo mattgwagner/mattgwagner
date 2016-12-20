@@ -47,10 +47,11 @@ title: Matt G. Wagner - Curriculum Vitae
 
 #### Roles & Responsibilities
 
-* Lead a greenfield complete re-write of the core customer-facing payroll application
+* Lead the greenfield architecture and implementation of the next-generation customer-facing payroll and HR back-office application
 * Designed and implemented automated build, test, and deployment system to increase development velocity across the organization
 * Responsible for system architecture and planning
 * Designed support libraries to provide consolidated logging and debugging for our distributed systems
+* Regularly lead internal tech talks on topics such as proper exception handling, automated deployments, microservice-based architectures, and build pipelines
 
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
