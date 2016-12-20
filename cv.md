@@ -21,13 +21,14 @@ title: Matt G. Wagner - Curriculum Vitae
 
 ## Technical Skills
 
-* Primary Language / Ecosystem: C# / .NET
+* Primary Language / Ecosystem: C# / .NET, PowerShell
+* Project Management and Agile Workflows
 * Source Control: Git, Mercurial, Subversion  
 * Build & Deployment Systems: PowerShell, MSBuild, TeamCity, Jenkins  
 * Distributed Caching and Messaging via Redis  
 * Microsoft SQL Server using T-SQL, Entity Framework, Stored Procedures
-* Experience with Powershell, Python, Java  
-* Systems Administration: Microsoft Windows 2003-2012R2 Server, Ubuntu
+* Experience with Python, Java, Ruby  
+* Systems Administration: Microsoft Windows Server 2003-2016, Ubuntu
 
 ## Professional Experience
 
@@ -42,16 +43,18 @@ title: Matt G. Wagner - Curriculum Vitae
 * Entity Framework (Code First)
 * Microsoft SQL Server 2012
 * GitHub/BitBucket
-* Automated testing via NUnit, Moq
+* Automated testing via NUnit, Moq, ApprovalTests.net
 * Redis for Background Job Processing, Pub/Sub
 
 #### Roles & Responsibilities
 
-* Lead the greenfield architecture and implementation of the next-generation customer-facing payroll and HR back-office application
-* Designed and implemented automated build, test, and deployment system to increase development velocity across the organization
-* Responsible for system architecture and planning
-* Designed support libraries to provide consolidated logging and debugging for our distributed systems
-* Regularly lead internal tech talks on topics such as proper exception handling, automated deployments, microservice-based architectures, and build pipelines
+* Recruited, interviewed, onboarded, and mentored team of developers and business analysts
+* Lead the greenfield implementation of the next-generation payroll and HR back-office application, balancing technology decisions with regards to risk/reward and stability
+* Groomed and triaged agile product roadmap and backlog
+* Responsible for design and code reviews for team
+* Designed and implemented our automated build, test, and deployment system to increase development velocity across the organization
+* Designed support frameworks to provide consolidated logging and debugging for our distributed systems
+* Organized and lead internal tech talks on topics such as proper exception handling, automated deployments, microservice-based architectures, and build pipelines
 
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
@@ -140,6 +143,12 @@ ASP.NET, C#, SVN, Stored Procedures
 
 ### University of South Florida Academic Computing Help Desk - Tampa, FL
 **Student Technology Consultant** - January 2006 - December 2006  
+
+## Conferences
+
+### Tampa Code Camp  - July 2016 - "Moving Fast Without Breaking Things in .NET"
+
+I provided insight into my background and experience on the .NET platform while working in organizations that can't afford to have outages and regressions while still embracing continuous integration and agile processed
 
 ## Education
 
