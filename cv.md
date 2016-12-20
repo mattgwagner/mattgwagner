@@ -148,7 +148,7 @@ ASP.NET, C#, SVN, Stored Procedures
 
 ### Tampa Code Camp  - July 2016 - "Moving Fast Without Breaking Things in .NET"
 
-I provided insight into my background and experience on the .NET platform while working in organizations that can't afford to have outages and regressions while still embracing continuous integration and agile processed
+I provided insight into my background and experience on the .NET platform while working in organizations that can't afford to have outages and regressions while still embracing continuous integration and agile processes.
 
 ## Education
 
