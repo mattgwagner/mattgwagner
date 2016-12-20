@@ -61,6 +61,7 @@ title: Matt G. Wagner - Curriculum Vitae
 * Coordinated logistical support for 80+ personnnel during field and hurricane-support operations
 * U.S. Government Security Clearance
 * Training in firearms, explosives, and military tactics  
+* Served as a Battery Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer
 
 #### Training & Schools 
 * Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
