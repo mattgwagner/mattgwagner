@@ -21,6 +21,7 @@ title: Matt G. Wagner - Curriculum Vitae
 
 ## Technical Skills
 
+* Active U.S Government Security Clearance
 * Primary Language / Ecosystem: C# / .NET, PowerShell
 * Project Management and Agile Workflows
 * Source Control: Git, Mercurial, Subversion  
@@ -144,7 +145,11 @@ ASP.NET, C#, SVN, Stored Procedures
 ### University of South Florida Academic Computing Help Desk - Tampa, FL
 **Student Technology Consultant** - January 2006 - December 2006  
 
-## Conferences
+## Conferences/Volunteering
+
+### Operation Code - Mentor
+
+I mentored veterans of the US military who are transitioning into new careers in Information Technology and Software Development, providing interview preparation, career coaching, and side-project code reviews and insight.
 
 ### Tampa Code Camp  - July 2016 - "Moving Fast Without Breaking Things in .NET"
 
