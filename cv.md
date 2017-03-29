@@ -7,7 +7,7 @@ title: Matt G. Wagner - Curriculum Vitae
 
 ## Matt G. Wagner
 
-**Email:** Me AT MattGWagner DOT com  
+**Email:** MattGWagner AT Gmail DOT com  
 **Mobile:** 813-413-6839  
 **Code:** [GitHub](https://github.com/mattgwagner)  
 **Web:** [MattGWagner.com](http://mattgwagner.com)  
@@ -22,13 +22,13 @@ title: Matt G. Wagner - Curriculum Vitae
 ## Technical Skills
 
 * Active U.S Government Security Clearance
+* Microsoft Azure
 * Primary Language / Ecosystem: C# / .NET, PowerShell
-* Project Management and Agile Workflows
+* Kanban-style Project Management and Agile Workflow
 * Source Control: Git, Mercurial, Subversion  
 * Build & Deployment Systems: PowerShell, MSBuild, TeamCity, Jenkins  
 * Distributed Caching and Messaging via Redis  
-* Microsoft SQL Server using T-SQL, Entity Framework, Stored Procedures
-* Experience with Python, Java, Ruby  
+* Microsoft SQL Server 2012, 2016
 * Systems Administration: Microsoft Windows Server 2003-2016, Ubuntu
 
 ## Professional Experience
@@ -42,10 +42,10 @@ title: Matt G. Wagner - Curriculum Vitae
 * Service Oriented Architecture/Microservices via Nancy
 * Continuous Integration via TeamCity, Octopus Deploy
 * Entity Framework (Code First)
-* Microsoft SQL Server 2012
+* Microsoft SQL Server 2012, 2016
 * GitHub/BitBucket
-* Automated testing via NUnit, Moq, ApprovalTests.net
-* Redis for Background Job Processing, Pub/Sub
+* Automated testing via XUnit/NUnit, Moq, ApprovalTests.net
+* Redis for Caching, Background Job Processing, Pub/Sub
 
 #### Roles & Responsibilities
 
@@ -146,6 +146,10 @@ ASP.NET, C#, SVN, Stored Procedures
 **Student Technology Consultant** - January 2006 - December 2006  
 
 ## Conferences/Volunteering
+
+### Code Lakeland - Speaker
+
+I am a regular member and speaker at Code Lakeland, a group who meets to discuss tech-related topics monthly. I presented on improvements to the hiring and interviewing process during the March 2017 meetup.
 
 ### Operation Code - Mentor
 
