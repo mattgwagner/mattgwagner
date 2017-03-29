@@ -22,13 +22,12 @@ title: Matt G. Wagner - Curriculum Vitae
 ## Technical Skills
 
 * Active U.S Government Security Clearance
-* Microsoft Azure
-* Primary Language / Ecosystem: C# / .NET, PowerShell
+* Primary Language / Ecosystem: C# / .NET, PowerShell, Azure
+* Professional Mentoring, Team Leadership
 * Kanban-style Project Management and Agile Workflow
 * Source Control: Git, Mercurial, Subversion  
 * Build & Deployment Systems: PowerShell, MSBuild, TeamCity, Jenkins  
 * Distributed Caching and Messaging via Redis  
-* Microsoft SQL Server 2012, 2016
 * Systems Administration: Microsoft Windows Server 2003-2016, Ubuntu
 
 ## Professional Experience
@@ -169,9 +168,8 @@ Men's Varsity Baseball, 2006 - 2007
 Intramural Crew Team - 2005  
 
 ##### Major Curriculum (Abbreviated)
-* Software Engineering
+* Software Engineering & Testing
 * Database Design
-* Software Testing
 * Information Security
 * Web Application Development
 * Financial & Managerial Accounting
