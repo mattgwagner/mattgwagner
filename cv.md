@@ -60,13 +60,14 @@ title: Matt G. Wagner - Curriculum Vitae
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
 
 * Experience in operational planning, organizational leadership, logistical support, mentoring, and personnel development
-* Performed on-the-ground tactical leadership of a Field Artillery firing battery during live fire operations
+* Performed on-the-ground tactical leadership of a Field Artillery firing battery during numerous live fire operations
 * Coordinated logistical support for 80+ personnnel during field and hurricane-support operations
 * U.S. Government Security Clearance
 * Training in firearms, explosives, and military tactics  
-* Served as a Battery Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer
+* Served as a Battery Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer and Safety Officer
 
 #### Training & Schools 
+* Field Artillery Captain's Career Course, Fort Sill, OK (2017)
 * Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
 * Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
 * Basic Combat Training, Fort Sill, OK  (2011)
