@@ -26,14 +26,35 @@ title: Matt G. Wagner - Curriculum Vitae
 * Professional Mentoring, Team Leadership
 * Kanban-style Project Management and Agile Workflow
 * Source Control: Git, Mercurial, Subversion  
+* API Design and Documentation: REST, Swagger/OpenAPI specifications
 * Build & Deployment Systems: PowerShell, MSBuild, TeamCity, Jenkins  
 * Distributed Caching and Messaging via Redis  
 * Systems Administration: Microsoft Windows Server 2003-2016, Ubuntu
 
 ## Professional Experience
 
+### Mercury New Media - Tampa, FL
+** Principle Software Engineer** -- August 2017 - Present
+
+### U.S. Army, Florida Army National Guard 
+**MOS 13A, Field Artillery Officer** - September, 2011 - Present  
+
+* Experience in operational planning, organizational leadership, logistical support, mentoring, and personnel development
+* Performed on-the-ground tactical leadership of a Field Artillery firing battery during numerous live fire operations
+* Coordinated logistical support for 80+ personnnel during field and hurricane-support operations
+* U.S. Government Security Clearance
+* Training in firearms, explosives, and military tactics  
+* Served as a Battery Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer and Safety Officer
+
+#### Training & Schools 
+* Field Artillery Captain's Career Course, Fort Sill, OK (2017)
+* Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
+* Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
+* Basic Combat Training, Fort Sill, OK  (2011)
+
+
 ### CertiPay - Winter Haven, FL (Remote Worker)
-**Principle Software Engineer** -- October 2014 - Present
+**Principle Software Engineer** -- October 2014 - August 2017
 
 #### Technologies
 
@@ -55,22 +76,6 @@ title: Matt G. Wagner - Curriculum Vitae
 * Designed and implemented our automated build, test, and deployment system to increase development velocity across the organization
 * Designed support frameworks to provide consolidated logging and debugging for our distributed systems
 * Organized and lead internal tech talks on topics such as proper exception handling, automated deployments, microservice-based architectures, and build pipelines
-
-### U.S. Army, Florida Army National Guard 
-**MOS 13A, Field Artillery Officer** - September, 2011 - Present  
-
-* Experience in operational planning, organizational leadership, logistical support, mentoring, and personnel development
-* Performed on-the-ground tactical leadership of a Field Artillery firing battery during numerous live fire operations
-* Coordinated logistical support for 80+ personnnel during field and hurricane-support operations
-* U.S. Government Security Clearance
-* Training in firearms, explosives, and military tactics  
-* Served as a Battery Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer and Safety Officer
-
-#### Training & Schools 
-* Field Artillery Captain's Career Course, Fort Sill, OK (2017)
-* Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
-* Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
-* Basic Combat Training, Fort Sill, OK  (2011)
 
 ### DealerTrack Technologies, Inc (Remote Worker)
 **Lead Software Engineer** -- July 2014 - October 2014
