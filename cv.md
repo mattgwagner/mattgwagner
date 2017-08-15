@@ -154,7 +154,9 @@ ASP.NET, C#, SVN, Stored Procedures
 
 ### Tampa Code Camp
 
-#### October 2017 - Resiliency Patterns: Managing Failure in a Chaotic World
+#### October 2017 - "Resiliency Patterns: Managing Failure in a Chaotic World"
+
+A survey of the resiliency patterns and techniques for managing transient failures in a distributed or cloud-connected world. Topics will include circuit breakers, retries, timeouts, and bulkheads using the Polly library for C# and the Hysterix library for the JVM.
 
 #### July 2016 - "Moving Fast Without Breaking Things in .NET"
 
