@@ -152,6 +152,14 @@ ASP.NET, C#, SVN, Stored Procedures
 
 ## Conferences/Volunteering
 
+### Tampa Code Camp
+
+#### October 2017 - Resiliency Patterns: Managing Failure in a Chaotic World
+
+#### July 2016 - "Moving Fast Without Breaking Things in .NET"
+
+I provided insight into my background and experience on the .NET platform while working in organizations that can't afford to have outages and regressions while still embracing continuous integration and agile processes.
+
 ### Code Lakeland - Speaker
 
 I am a regular member and speaker at Code Lakeland, a group who meets to discuss tech-related topics monthly. I presented on improvements to the hiring and interviewing process during the March 2017 meetup.
@@ -159,10 +167,6 @@ I am a regular member and speaker at Code Lakeland, a group who meets to discuss
 ### Operation Code - Mentor
 
 I mentored veterans of the US military who are transitioning into new careers in Information Technology and Software Development, providing interview preparation, career coaching, and side-project code reviews and insight.
-
-### Tampa Code Camp  - July 2016 - "Moving Fast Without Breaking Things in .NET"
-
-I provided insight into my background and experience on the .NET platform while working in organizations that can't afford to have outages and regressions while still embracing continuous integration and agile processes.
 
 ## Education
 
