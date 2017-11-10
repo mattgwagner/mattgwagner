@@ -35,7 +35,7 @@ title: Matt G. Wagner - Curriculum Vitae
 ## Professional Experience
 
 ### Mercury New Media - Tampa, FL
-** Principle Software Engineer** -- August 2017 - Present
+**Principle Software Engineer** -- August 2017 - Present
 
 * Solution Architect for team of 5+ cross-disciplinary engineers and product owner
 * Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
