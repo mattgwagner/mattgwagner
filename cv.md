@@ -36,6 +36,9 @@ title: Matt G. Wagner - Curriculum Vitae
 ### Mercury New Media - Tampa, FL
 ** Principle Software Engineer** -- August 2017 - Present
 
+* Solution Architect for team of 5+ cross-disciplinary engineers and product owner
+* Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
+
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
 
