@@ -30,6 +30,7 @@ title: Matt G. Wagner - Curriculum Vitae
 * Build & Deployment Systems: PowerShell, MSBuild, TeamCity, Jenkins  
 * Distributed Caching and Messaging via Redis  
 * Systems Administration: Microsoft Windows Server 2003-2016, Ubuntu
+* Front-end Frameworks such as Knockout.js
 
 ## Professional Experience
 
@@ -38,6 +39,7 @@ title: Matt G. Wagner - Curriculum Vitae
 
 * Solution Architect for team of 5+ cross-disciplinary engineers and product owner
 * Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
+* Utilized Knockout.js with Crafted API backends to wire up rich client experiences
 
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
