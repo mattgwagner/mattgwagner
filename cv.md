@@ -157,7 +157,7 @@ ASP.NET, C#, SVN, Stored Procedures
 
 ## Conferences/Volunteering
 
-### Tampa Code Camp
+### Tampa Code Camp - Speaker
 
 #### October 2017 - "Resiliency Patterns: Managing Failure in a Chaotic World"
 
