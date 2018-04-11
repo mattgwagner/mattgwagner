@@ -50,6 +50,7 @@ title: Matt G. Wagner - Curriculum Vitae
 * U.S. Government Security Clearance
 * Training in firearms, explosives, and military tactics  
 * Served as a Battery Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer and Safety Officer
+* NATO Allied Rapid Response Cell exercise experience including coordination and training via Operation Dynamic Front 18 in Germany
 
 #### Training & Schools 
 * Field Artillery Captain's Career Course, Fort Sill, OK (2017)
