@@ -22,8 +22,8 @@ title: Matt G. Wagner - Curriculum Vitae
 ## Technical Skills
 
 * Active U.S Government Security Clearance
-* Primary Language / Ecosystem: C# / .NET, PowerShell, Azure
-* Professional Mentoring, Team Leadership
+* Primary Language / Ecosystem: C# / .NET, PowerShell, Azure, React
+* Professional Mentoring, Organizational Leadership
 * Kanban-style Project Management and Agile Workflow
 * Source Control: Git, Mercurial, Subversion  
 * API Design and Documentation: REST, Swagger/OpenAPI specifications
@@ -40,6 +40,7 @@ title: Matt G. Wagner - Curriculum Vitae
 * Solution Architect for team of 5+ cross-disciplinary engineers and product owner
 * Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
 * Utilized Knockout.js with Crafted API backends to wire up rich client experiences
+* Experience in ReactJS for cross-platform web and mobile experiences with a RESTful API backend
 
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
@@ -48,7 +49,6 @@ title: Matt G. Wagner - Curriculum Vitae
 * Performed on-the-ground tactical leadership of a Field Artillery firing battery during numerous live fire operations
 * Coordinated logistical support for 80+ personnnel during field and hurricane-support operations
 * U.S. Government Security Clearance
-* Training in firearms, explosives, and military tactics  
 * Served as a Battery Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer and Safety Officer
 * NATO Allied Rapid Response Cell exercise experience including coordination and training via Operation Dynamic Front 18 in Germany
 
