@@ -49,7 +49,7 @@ title: Matt G. Wagner - Curriculum Vitae
 
 * Experience in operational planning, organizational leadership, logistical support, mentoring, and personnel development
 * Performed on-the-ground tactical leadership of a Field Artillery firing battery during numerous live fire operations
-* Coordinated logistical support for 80+ personnnel during field and hurricane-support operations
+* Coordinated logistical support for 80+ personnel during field and hurricane-support operations
 * U.S. Government Security Clearance
 * Served as a Battery Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer and Safety Officer
 * NATO Allied Rapid Response Cell exercise experience including coordination and training via Operation Dynamic Front 18 in Germany
