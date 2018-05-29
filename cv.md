@@ -106,7 +106,7 @@ title: Matt G. Wagner - Curriculum Vitae
 
 * Lead development reviews and architecture planning for future scaling
 * Restructured data access layer library and implemented distributed caching using Redis to improve performance
-* Analysed metrics and profiler output to optimize code paths and improve response times 25% over 20+ million requests per week
+* Analyzed metrics and profiler output to optimize code paths and improve response times 25% over 20+ million requests per week
 * Built automated build and deployment system that resulted in a 10x increase in developer productivity and mean time to production
 * Developed interview questions in order to screen engineering applicants
 * Implemented distributed error logging mechanism to aid production debugging
