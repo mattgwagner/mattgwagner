@@ -1,4 +1,2 @@
-mattgwagner.github.com
-======================
+# About Matt
 
-My personal website, ported into GitHub Pages.
