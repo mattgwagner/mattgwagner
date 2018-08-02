@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Matt G. Wagner - Curriculum Vitae
+title: Matt G. Wagner - Resume
 ---
 
 # Curriculum Vitae
