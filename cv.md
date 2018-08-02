@@ -6,7 +6,7 @@ title: Matt G. Wagner - Resume
 # Matt G. Wagner - Resume
 
 **Email:** [Resume@MattGWagner.com](mailto:Resume@MattGWagner.com)  
-**Mobile:** [813-413-6839](tel:8134136839)
+**Mobile:** [813-413-6839](tel:8134136839)  
 **Code:** [GitHub](https://github.com/mattgwagner)  
 **Web:** [MattGWagner.com](http://mattgwagner.com)  
 **Connect:** [LinkedIn](https://www.linkedin.com/in/mattgwagner)
@@ -33,7 +33,7 @@ title: Matt G. Wagner - Resume
 
 ## Professional Experience
 
-### Mercury New Media - Tampa, FL
+### [Mercury New Media](http://www.mercurynewmedia.com/) - Tampa, FL
 **Principal Software Engineer** -- August 2017 - Present
 
 * Solution Architect and Technical Lead for team of 5+ cross-disciplinary engineers and product owner
