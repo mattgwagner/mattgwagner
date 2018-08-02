@@ -131,10 +131,6 @@ I am an experienced and enthusiastic technical leader, helping to develop and me
 
 **Software Engineer** - August 2010 - September 2011
 
-#### Technologies
-
-ASP.NET, C#, SVN, Stored Procedures
-
 #### Roles & Responsibilities
 
 * Maintained and expanded a multi-tiered .NET application suite including ASP.NET front-ends and C# Web and Windows Services
