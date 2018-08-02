@@ -120,10 +120,6 @@ I am an experienced and enthusiastic technical leader, helping to develop and me
 ### MIDFLORIDA Credit Union - Lakeland, FL  
 **Developer II** - December, 2011 - July, 2012  
 
-#### Technologies
-
-ASP.NET, C#, VB.net, Subversion, Stored Procedures, Redmine
-
 #### Roles & Responsibilities
 
 * Implemented development tool-chain to include coordination between Redmine issue tracker, SVN source control, and TeamCity automated builds  
