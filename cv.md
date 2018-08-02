@@ -31,6 +31,7 @@ title: Matt G. Wagner - Curriculum Vitae
 * Distributed Caching and Messaging via Redis  
 * Systems Administration: Microsoft Windows Server 2003-2016, Ubuntu
 * Front-end Frameworks such as Knockout.js
+* Utilized Packer and Vagrant for reproducible Developer Environments
 
 ## Professional Experience
 
@@ -38,6 +39,7 @@ title: Matt G. Wagner - Curriculum Vitae
 **Principal Software Engineer** -- August 2017 - Present
 
 * Solution Architect and Technical Lead for team of 5+ cross-disciplinary engineers and product owner
+* Responsible for Screening, Interviewing, and Onboarding New Engineers, utilizing Jazz HR
 * Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
 * Primary mentor for junior application development craftsmen, responsible for coaching and career development 
 * Utilized Knockout.js with Crafted API backends to wire up rich client experiences
