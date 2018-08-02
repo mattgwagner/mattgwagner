@@ -42,6 +42,7 @@ title: Matt G. Wagner - Resume
 
 * Solution Architect and Technical Lead for team of 5+ cross-disciplinary engineers and product owner
 * Responsible for Screening, Interviewing, and Onboarding New Engineers, utilizing Jazz HR
+* Designed Applicant Code Screen to improve Signal-to-Noise ratio for New Candidates through our hiring pipeline
 * Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
 * Primary mentor for junior application development craftsmen, responsible for coaching and career development 
 * Utilized Knockout.js with Crafted API backends to wire up rich client experiences
