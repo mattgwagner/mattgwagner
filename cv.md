@@ -3,9 +3,7 @@ layout: default
 title: Matt G. Wagner - Resume
 ---
 
-# Curriculum Vitae
-
-## Matt G. Wagner
+# Matt G. Wagner - Resume
 
 **Email:** [Resume@MattGWagner.com](mailto:Resume@MattGWagner.com)  
 **Mobile:** 813-413-6839  
