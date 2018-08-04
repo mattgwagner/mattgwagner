@@ -17,7 +17,7 @@ title: Matt G. Wagner - Resume
 
 ## Summary
 
-**I am an experienced and enthusiastic technical leader, serving as architect and mentor of distributed engineering teams for over ten years. I have experience in companies ranging from the Fortune 50 to start-ups, and couple that with over seven years of service with the United States Army and Florida National Guard. I am passionate about my craft, endeavoring to produce outstanding results in whatever I'm tasked to do.**
+**I am an experienced and enthusiastic technical leader, serving as architect and mentor on distributed engineering teams for over ten years. I have experience in companies ranging from the Fortune 50 to start-ups, and couple that with over seven years of service with the United States Army and Florida National Guard. I am passionate about my craft, endeavoring to produce outstanding results in whatever I'm tasked to do.**
 
 ----------
 
