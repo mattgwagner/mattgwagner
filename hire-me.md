@@ -5,3 +5,6 @@ I am available for short and long-term contracting engagements as a professional
 - Professional Coaching for Individuals and Teams
 - Architecture and Design Reviews
 - Build and Test Automation
+- Project Breakdown and Estimation
+
+Use the Contact Me link to reach out.
