@@ -7,4 +7,4 @@ I am available for short and long-term contracting engagements as a professional
 - Build and Test Automation
 - Project Breakdown and Estimation
 
-Use the Contact Me link to reach out.
+Use the Contact Me link to reach out or [Schedule a Call](https://calendly.com/mattgwagner).
