@@ -6,5 +6,6 @@ I am available for short and long-term contracting engagements as a professional
 - Architecture and Design Reviews
 - Build and Test Automation
 - Project Breakdown and Estimation
+- Legacy Code Re-Platforming and Updates
 
 Use the Contact Me link to reach out or [Schedule a Call](https://calendly.com/mattgwagner).
