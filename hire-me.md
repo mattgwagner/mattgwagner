@@ -8,10 +8,4 @@ I am available for short and long-term contracting engagements as a professional
 - Project Breakdown and Estimation
 - Legacy Code Re-Platforming and Updates
 
-Use the Contact Me link to reach out or 
-
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/mattgwagner', text: 'Schedule time with me', color: '#00a2ff', branding: true});</script>
-<!-- Calendly badge widget end -->
+Use the Contact Me link to reach out or click below to schedule a time to chat.
