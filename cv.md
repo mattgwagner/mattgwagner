@@ -32,7 +32,7 @@ title: Matt G. Wagner - Resume
 * Build & Deployment Systems: PowerShell, MSBuild, TeamCity, Jenkins  
 * Distributed Caching and Messaging via Redis  
 * Systems Administration: Microsoft Windows Server 2003-2016, Ubuntu
-* Front-end Frameworks such as Knockout.js
+* Front-end Frameworks such as ReactJS and Knockout.js
 * Utilized Packer and Vagrant for reproducible Developer Environments
 
 ## Professional Experience
@@ -41,13 +41,19 @@ title: Matt G. Wagner - Resume
 **Principal Software Engineer** -- August 2017 - Present
 
 * Solution Architect and Technical Lead for team of 5+ cross-disciplinary engineers and product owner
+* Primary mentor for junior application development craftsmen, responsible for coaching and career development 
 * Responsible for Screening, Interviewing, and Onboarding New Engineers, utilizing Jazz HR
 * Designed Applicant Code Screen to improve Signal-to-Noise ratio for New Candidates through our hiring pipeline
 * Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
-* Primary mentor for junior application development craftsmen, responsible for coaching and career development 
-* Utilized Knockout.js with Crafted API backends to wire up rich client experiences
-* Experience in ReactJS for cross-platform web and mobile experiences with a RESTful API backend
+* Utilized ReactJS and Knockout.js with Crafted API backends to wire up rich client experiences
 * Refactored and tuned Extract-Transform-Load process for client data warehousing project in SQL Server and Reporting Services
+
+### Red Leg Dev, LLC
+**Owner, Principal Engineer** - June, 2018 - Present
+
+* Provide software engineering and organizational leadership consulting services to small and medium sized business clients
+* Self-driven work, drove User Stories and feature requests to completion utilizing a variety of technical skills, ranging from business-driven PDF form generation to Azure AD and OpenID Connect SSO implementations
+* Experience with time-tracking and reporting, producing client invoices and handling bookkeeping
 
 ### U.S. Army, Florida Army National Guard 
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
@@ -60,7 +66,7 @@ title: Matt G. Wagner - Resume
 * NATO Allied Rapid Response Cell exercise experience including coordination and training via Operation Dynamic Front 18 in Germany
 
 #### Training & Schools 
-* Field Artillery Captain's Career Course, Fort Sill, OK (2017)
+* Field Artillery Captain's Career Course, Fort Sill, OK (2017-2019)
 * Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
 * Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
 * Basic Combat Training, Fort Sill, OK  (2011)
