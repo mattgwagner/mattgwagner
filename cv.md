@@ -17,14 +17,14 @@ title: Matt G. Wagner - Resume
 
 ## Summary
 
-**I am an experienced and enthusiastic technical leader, serving as architect and mentor on distributed engineering teams for over ten years. I have experience in companies ranging from the Fortune 50 to start-ups, and couple that with over seven years of service with the United States Army and Florida National Guard. I am passionate about my craft, endeavoring to produce outstanding results in whatever I'm tasked to do.**
+**I am an experienced and enthusiastic technical leader, serving as architect and mentor on distributed engineering teams for over ten years. I have experience in companies ranging from the Fortune 50 to start-ups, and couple that with over seven years of service with the United States Army and Florida National Guard. I have experience as an on-the-ground commander and coordinator of National Guard Soldiers serving in emergency response situations. I am passionate about my profession, endeavoring to produce outstanding results in whatever I'm tasked to do.**
 
 ----------
 
 ## Technical Skills
 
+* Primary Language / Ecosystem: C# / .NET, PowerShell, Azure
 * Active U.S Government Security Clearance
-* Primary Language / Ecosystem: C# / .NET, PowerShell, Azure, React
 * Professional Mentoring, Organizational Leadership
 * Kanban-style Project Management and Agile Workflow
 * Source Control: Git, Mercurial, Subversion  
@@ -60,9 +60,9 @@ title: Matt G. Wagner - Resume
 
 * Experience in operational planning, organizational leadership, logistical support, mentoring, and personnel development
 * Performed on-the-ground tactical leadership of a Field Artillery firing battery during numerous live fire operations
-* Coordinated logistical support for 80+ personnel during field and hurricane-support operations
+* Commanded and coordinated 80+ Soldiers during training and state emergency response operations, including three major catastrophic hurricanes
 * U.S. Government Security Clearance
-* Served as a Battery Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer and Safety Officer
+* Served as a Commander, Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer and Safety Officer
 * NATO Allied Rapid Response Cell exercise experience including coordination and training via Operation Dynamic Front 18 in Germany
 
 #### Training & Schools 
