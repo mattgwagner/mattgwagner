@@ -163,7 +163,7 @@ title: Matt G. Wagner - Resume
 
 ## Conferences/Volunteering
 
-### Tampa Code Camp - Speaker
+### [Tampa Code Camp](https://tampacc.org) - Speaker
 
 #### October 2017 - "Resiliency Patterns: Managing Failure in a Chaotic World"
 
@@ -173,7 +173,7 @@ A survey of the resiliency patterns and techniques for managing transient failur
 
 I provided insight into my background and experience on the .NET platform while working in organizations that can't afford to have outages and regressions while still embracing continuous integration and agile processes.
 
-### Code Lakeland - Speaker
+### [Code Lakeland](https://www.meetup.com/Code-Lakeland) - Speaker
 
 I am a regular member and speaker at Code Lakeland, a group who meets to discuss tech-related topics monthly. I presented on improvements to the hiring and interviewing process during the March 2017 meetup.
 
