@@ -124,7 +124,7 @@ title: Matt G. Wagner - Resume
 * Developed job queue and scheduled jobs to manage integration processing service in primary data integration system
 * Produced OpenTrack.net, open source library available on GitHub and NuGet for interacting with third-party STAR-based web service
 
-### [MIDFLORIDA Credit Union)(https://midflorida.com) - Lakeland, FL  
+### [MIDFLORIDA Credit Union](https://midflorida.com) - Lakeland, FL  
 **Developer II** - December, 2011 - July, 2012  
 
 #### Roles & Responsibilities
