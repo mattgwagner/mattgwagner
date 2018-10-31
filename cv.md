@@ -48,7 +48,7 @@ title: Matt G. Wagner - Resume
 * Utilized ReactJS and Knockout.js with Crafted API backends to wire up rich client experiences
 * Refactored and tuned Extract-Transform-Load process for client data warehousing project in SQL Server and Reporting Services
 
-### Red Leg Dev, LLC
+### [Red Leg Dev, LLC](https://red-leg-dev.com)
 **Owner, Principal Engineer** - June, 2018 - Present
 
 * Provide software engineering and organizational leadership consulting services to small and medium sized business clients
@@ -72,7 +72,7 @@ title: Matt G. Wagner - Resume
 * Basic Combat Training, Fort Sill, OK  (2011)
 
 
-### CertiPay - Winter Haven, FL (Remote Worker)
+### [CertiPay](https://certipay.com) - Winter Haven, FL (Remote Worker)
 **Principal Software Engineer** -- October 2014 - August 2017
 
 #### Technologies
@@ -124,7 +124,7 @@ title: Matt G. Wagner - Resume
 * Developed job queue and scheduled jobs to manage integration processing service in primary data integration system
 * Produced OpenTrack.net, open source library available on GitHub and NuGet for interacting with third-party STAR-based web service
 
-### MIDFLORIDA Credit Union - Lakeland, FL  
+### [MIDFLORIDA Credit Union)(https://midflorida.com) - Lakeland, FL  
 **Developer II** - December, 2011 - July, 2012  
 
 #### Roles & Responsibilities
@@ -134,7 +134,7 @@ title: Matt G. Wagner - Resume
 * Localized mobile banking application to aid Spanish speaking users
 * Configured and used RSA's Adaptive Authentication product for analyzing fraud patterns in online banking
 
-### AutoLoop - Clearwater, FL (Remote Worker)
+### [AutoLoop](https://autoloop.com) - Clearwater, FL (Remote Worker)
 
 **Software Engineer** - August 2010 - September 2011
 
