@@ -146,7 +146,7 @@ title: Matt G. Wagner - Resume
 * Worked with QA and Support personnel to develop administrative interfaces and dashboards
 * Assisted in development of core data integration platform, allowing multi-threaded access to expedite data processing
 
-### JPMorganChase - Tampa, FL
+### [JPMorganChase](https://www.jpmorganchase.com/) - Tampa, FL
 **Web Applications Developer** - June 2008 - August 2010  
 
 #### Roles & Responsibilities
