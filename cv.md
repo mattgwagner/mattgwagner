@@ -37,7 +37,7 @@ title: Matt G. Wagner - Resume
 
 ## Professional Experience
 
-### [Mercury New Media](http://www.mercurynewmedia.com/) - Tampa, FL
+### [MercuryWork](http://www.mercuryworks.com/) - Tampa, FL
 **Principal Software Engineer** -- August 2017 - Present
 
 * Solution Architect and Technical Lead for team of 5+ cross-disciplinary engineers and product owner
