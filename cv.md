@@ -67,11 +67,11 @@ title: Matt G. Wagner - Resume
 * NATO Allied Rapid Response Cell exercise experience including coordination and training via Operation Dynamic Front 18 in Germany
 
 #### Training & Schools 
+
 * Field Artillery Captain's Career Course, Fort Sill, OK (2017-2019)
 * Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
 * Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
 * Basic Combat Training, Fort Sill, OK  (2011)
-
 
 ### [CertiPay](https://certipay.com) - Winter Haven, FL (Remote Worker)
 **Principal Software Engineer** -- October 2014 - August 2017
