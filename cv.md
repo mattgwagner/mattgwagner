@@ -45,7 +45,7 @@ title: Matt G. Wagner - Resume
 * Responsible for Screening, Interviewing, and Onboarding New Engineers, utilizing Jazz HR
 * Designed Applicant Code Screen to improve Signal-to-Noise ratio for New Candidates through our hiring pipeline
 * Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
-* Utilized ReactJS and Knockout.js with Crafted API backends to wire up rich client experiences
+* Utilized ReactJS and Knockout.js with WebAPI and Azure Functions backends to wire up rich client experiences
 * Refactored and tuned Extract-Transform-Load process for client data warehousing project in SQL Server and Reporting Services
 
 ### [Red Leg Dev, LLC](https://red-leg-dev.com)
