@@ -108,12 +108,11 @@ title: Matt G. Wagner - Resume
 
 * ASP.NET, MVC, C#, Windows Services
 * Entity Framework, Stored Procedures / T-SQL
-* Microsoft SQL Server 2008/2012
+* Microsoft SQL Server
 * MSBuild, PowerShell, TeamCity
-* Git/GitHub
+* Source Control via Git/GitHub
 * Redis for distributed caching, message queue
-* WCF, ServiceStack
-* XUnit.net/NUnit
+* Unit Testing via XUnit.net/NUnit
 
 #### Roles & Responsibilities
 
