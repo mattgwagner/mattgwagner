@@ -42,6 +42,7 @@ title: Matt G. Wagner - Resume
 
 * Solution Architect and Technical Lead for team of 5+ cross-disciplinary engineers and product owner
 * Primary mentor for junior application development craftsmen, responsible for coaching and career development 
+* Tech Lead for Backend Developers Guild, facilitating lunch-and-learn sessions and cross-functional knowledge sharing
 * Responsible for Screening, Interviewing, and Onboarding New Engineers, utilizing Jazz HR
 * Designed Applicant Code Screen to improve Signal-to-Noise ratio for New Candidates through our hiring pipeline
 * Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
@@ -163,6 +164,10 @@ title: Matt G. Wagner - Resume
 **Student Technology Consultant** - January 2006 - December 2006  
 
 ## Conferences/Volunteering
+
+### Gator Redleg Chapter of the U.S Field Artillery Association [https://www.gatorredleg.org] - Web Architect
+
+Lead redesign of core public-facing website to include integrating newsletter handling, membership database, event coordination, and photo album sharing.
 
 ### [Tampa Code Camp](https://tampacc.org) - Speaker
 
