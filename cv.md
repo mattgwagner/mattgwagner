@@ -37,6 +37,14 @@ title: Matt G. Wagner - Resume
 
 ## Professional Experience
 
+### [Red Leg Dev, LLC](https://red-leg-dev.com)
+**Owner, Principal Engineer** - June, 2018 - Present
+
+* Provide software engineering and organizational leadership consulting services to small and medium sized business clients
+* Self-driven work, drove User Stories and feature requests to completion utilizing a variety of technical skills, ranging from business-driven PDF form generation to Azure AD and OpenID Connect SSO implementations
+* Experience with time-tracking and reporting, producing client invoices and handling bookkeeping
+* Building custom integrations and financial analysis tools with Procore construction management APIs with OAuth
+
 ### [MercuryWorks](http://www.mercuryworks.com/) - Tampa, FL
 **Principal Software Engineer** -- August 2017 - Present
 
@@ -48,14 +56,6 @@ title: Matt G. Wagner - Resume
 * Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
 * Utilized ReactJS and Knockout.js with WebAPI and Serverless/Azure Functions backends to wire up rich client experiences
 * Refactored and tuned Extract-Transform-Load process for client data warehousing project in SQL Server and Reporting Services
-
-### [Red Leg Dev, LLC](https://red-leg-dev.com)
-**Owner, Principal Engineer** - June, 2018 - Present
-
-* Provide software engineering and organizational leadership consulting services to small and medium sized business clients
-* Self-driven work, drove User Stories and feature requests to completion utilizing a variety of technical skills, ranging from business-driven PDF form generation to Azure AD and OpenID Connect SSO implementations
-* Experience with time-tracking and reporting, producing client invoices and handling bookkeeping
-* Building custom integrations with Procore construction management APIs with OAuth
 
 ### [U.S. Army](https://www.goarmy.com/), [Florida Army National Guard](https://state.nationalguard.com/florida)
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
