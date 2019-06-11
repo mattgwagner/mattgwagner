@@ -189,7 +189,7 @@ I mentored veterans of the US military who are transitioning into new careers in
 
 ## Education
 
-### University of South Florida - Tampa, FL
+### [University of South Florida](https://usf.edu) - Tampa, FL
 **Degree: B.S. Computer Information Systems** - Graduated May, 2009 
 
 Florida Academic Scholars - Bright Futures Scholarship recipient  
