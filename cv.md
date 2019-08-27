@@ -37,7 +37,7 @@ title: Matt G. Wagner - Resume
 
 ## Professional Experience
 
-### [Red Leg Dev, LLC](https://red-leg-dev.com)
+### [Red Leg Dev, LLC](https://www.red-leg-dev.com)
 **Owner, Principal Engineer** - June, 2018 - Present
 
 * Provide software engineering and organizational leadership consulting services to small and medium sized business clients
