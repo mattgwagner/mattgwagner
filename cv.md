@@ -46,7 +46,7 @@ title: Matt G. Wagner - Resume
 * Building custom integrations and financial analysis tools with Procore construction management APIs with OAuth
 
 ### [MercuryWorks](http://www.mercuryworks.com/) - Tampa, FL
-**Principal Software Engineer** -- August 2017 - Present
+**Principal Software Engineer** - August 2017 - Present
 
 * Solution Architect and Technical Lead for team of 5+ cross-disciplinary engineers and product owner
 * Primary mentor for junior application development craftsmen, responsible for coaching and career development 
