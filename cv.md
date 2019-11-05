@@ -60,6 +60,7 @@ title: Matt G. Wagner - Resume
 ### [U.S. Army](https://www.goarmy.com/), [Florida Army National Guard](https://state.nationalguard.com/florida)
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
 
+* Currently serving as Commander for M777A2 artillery battery, leading 65+ Soldiers and responsible for $10mm+ of equipment
 * Experience in operational planning, organizational leadership, logistical support, mentoring, and personnel development
 * Performed on-the-ground tactical leadership of a Field Artillery firing battery during numerous live fire operations
 * Commanded and coordinated 80+ Soldiers during training and state emergency response operations, including three major catastrophic hurricanes
