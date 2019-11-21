@@ -169,9 +169,15 @@ title: Matt G. Wagner - Resume
 
 Lead redesign of core public-facing website to include integrating newsletter handling, membership database, event coordination, and photo album sharing.
 
-### Great American Teach In - Speaker
+### Great American Teach In - Speaker - [Slides](https://docs.google.com/presentation/d/1fh9LzLK---iwmaeZr9i871KvtWVT8OvvJCZ8jYFndRU/edit?usp=sharing)
 
-[Slides](https://docs.google.com/presentation/d/1fh9LzLK---iwmaeZr9i871KvtWVT8OvvJCZ8jYFndRU/edit?usp=sharing)
+The Great American Teach-In is an annual event coordinated by the Polk County Public Schools’ Department of Public Relations and Strategic Partnerships to celebrate American Education Week.
+
+During this event, members of the community are invited to speak to students about their careers, travel and hobbies, and how their early educational experiences relate to their current lives.
+
+Students enjoy the opportunity to hear real stories from real community members. Each year Teach-In volunteers inspire students to stay focused and keep looking ahead to the future. In previous years, volunteers have come in costume, shown students their work-related equipment, performed songs, dances and plays, offered potentially life-saving information, showed off their pets, discussed career options, shared precious souvenirs, talked about other parts of the world, cooked delicious meals, stepped down from the pedestal of celebrity to meet students at their level, or simply read a story.
+
+The Teach-In introduces students to career options they might never have considered, hobbies they might never have discovered, and activities they might never have experienced.
 
 ### [Tampa Code Camp](https://tampacc.org) - Speaker
 
