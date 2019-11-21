@@ -169,6 +169,10 @@ title: Matt G. Wagner - Resume
 
 Lead redesign of core public-facing website to include integrating newsletter handling, membership database, event coordination, and photo album sharing.
 
+### Great American Teach In - Speaker
+
+[Slides](https://docs.google.com/presentation/d/1fh9LzLK---iwmaeZr9i871KvtWVT8OvvJCZ8jYFndRU/edit?usp=sharing)
+
 ### [Tampa Code Camp](https://tampacc.org) - Speaker
 
 #### October 2017 - "Resiliency Patterns: Managing Failure in a Chaotic World"
