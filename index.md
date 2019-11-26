@@ -5,7 +5,7 @@ title: Matt G. Wagner
 
 # Welcome
 
-<img src="/images/Mountains.JPG" />
+<img src="/images/IMG_8595.JPG" />
 
 This is the home page and resume site of Matt Wagner, a software developer from Lakeland, Florida. On these pages are a bit about myself, the work I've done and projects I've worked on, and a little background to how I got where I am now. 
 
