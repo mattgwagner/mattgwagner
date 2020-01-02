@@ -31,7 +31,7 @@ title: Matt G. Wagner - Resume
 * API Design and Documentation: REST, Swagger/OpenAPI specifications
 * Build & Deployment Systems: Azure DevOps, AppVeyor, TeamCity, Jenkins  
 * Distributed Caching and Messaging via Redis  
-* Systems Administration: Microsoft Windows Server 2003-2016, Ubuntu
+* Systems Administration: Microsoft Windows Server 2003-2019, Ubuntu, Mac OS
 * Front-end Frameworks such as ReactJS and Knockout.js
 * Utilized Packer and Vagrant for reproducible Developer Environments
 
