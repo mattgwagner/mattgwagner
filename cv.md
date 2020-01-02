@@ -166,9 +166,9 @@ title: Matt G. Wagner - Resume
 
 ## Conferences/Volunteering
 
-### [Gator Redleg Chapter of the U.S Field Artillery Association](https://www.gatorredleg.org) - Web Architect
+### [Gator Redleg Chapter of the U.S Field Artillery Association](https://www.gatorredleg.org) - Web Architect, Board Member
 
-Lead redesign of core public-facing website to include integrating newsletter handling, membership database, event coordination, and photo album sharing.
+Lead redesign of core public-facing website to include integrating newsletter handling, membership database, event coordination, and photo album sharing. Implemented event registration and reporting for key membership activites.
 
 ### Great American Teach In - Speaker - [Slides](https://docs.google.com/presentation/d/1fh9LzLK---iwmaeZr9i871KvtWVT8OvvJCZ8jYFndRU/edit?usp=sharing)
 
