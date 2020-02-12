@@ -29,7 +29,7 @@ title: Matt G. Wagner - Resume
 * Kanban-style Project Management and Agile Workflow
 * Source Control: Git, Mercurial, Subversion  
 * API Design and Documentation: REST, Swagger/OpenAPI specifications
-* Build & Deployment Systems: Azure DevOps, AppVeyor, TeamCity, Jenkins  
+* Build & Deployment Systems: Azure DevOps, AppVeyor, TeamCity, Jenkins, Docker  
 * Distributed Caching and Messaging via Redis  
 * Systems Administration: Microsoft Windows Server 2003-2019, Ubuntu, Mac OS
 * Front-end Frameworks such as ReactJS and Knockout.js
