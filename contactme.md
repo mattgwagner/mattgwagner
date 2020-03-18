@@ -5,7 +5,7 @@ title: Matt G. Wagner - Contact Me
 
 # Contact Me
 
-<form action="https://airform.io/Website@redleg.dev" method="post" class="form-horizontal">
+<form action="https://airform.io/MattGWagner@gmail.com" method="post" class="form-horizontal">
 <fieldset>
 
 <!-- Form Name -->
