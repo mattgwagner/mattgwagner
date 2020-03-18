@@ -5,9 +5,38 @@ title: Matt G. Wagner - Contact Me
 
 # Contact Me
 
-<form action="https://airform.io/Website@MattGWagner.com" method="post">
-  <input type="text" name="name" placeholder="Enter your name">
-  <input type="text" name="email" placeholder="Enter your email">
-  <textarea name="message" placeholder="Enter your message"></textarea>
-  <button>Contact Matt!</button>
+<form action="https://airform.io/Website@MattGWagner.com" method="post" class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<legend>Contact Me</legend>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput">Your Name</label>  
+  <div class="col-md-4">
+  <input id="textinput" name="textinput" type="text" placeholder="Enter your name" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput">Your Email</label>  
+  <div class="col-md-4">
+  <input id="textinput" name="textinput" type="text" placeholder="Enter your email" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput">Message</label>  
+  <div class="col-md-8">
+  <input id="textinput" name="textinput" type="text" placeholder="Enter your message" class="form-control input-md">
+    
+  </div>
+</div>
+
+</fieldset>
 </form>
