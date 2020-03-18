@@ -5,4 +5,9 @@ title: Matt G. Wagner - Contact Me
 
 # Contact Me
 
-<iframe src="https://spreadsheets.google.com/embeddedform?formkey=dHhGMGJtaHlpQXdRU1kzTkRtNTFaaGc6MQ" width="760" height="575" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<form action="https://airform.io/Website@MattGWagner.com" method="post">
+  <input type="text" name="name" placeholder="Enter your name">
+  <input type="text" name="email" placeholder="Enter your email">
+  <textarea name="message" placeholder="Enter your message"></textarea>
+  <button>Contact Matt!</button>
+</form>
