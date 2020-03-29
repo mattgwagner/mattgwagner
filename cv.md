@@ -45,19 +45,6 @@ title: Matt G. Wagner - Resume
 * Experience with time-tracking and reporting, producing client invoices and handling bookkeeping
 * Building custom integrations and financial analysis tools with Procore construction management APIs with OAuth
 
-### [MercuryWorks](http://www.mercuryworks.com/) - Tampa, FL
-**Principal Software Engineer** - August 2017 - Present
-
-* Solution Architect and Technical Lead for team of 5+ cross-disciplinary engineers and product owner
-* Primary mentor for junior and senior application development craftsmen, responsible for coaching and career development 
-* Tech Lead for Backend Developers Guild, facilitating lunch-and-learn sessions and cross-functional knowledge sharing
-* Responsible for Screening, Interviewing, and Onboarding New Engineers, utilizing Jazz HR
-* Partnered with Product Owners to groom, plan, and manage team workflow via Azure DevOps
-* Designed Applicant Code Screen to improve Signal-to-Noise ratio for New Candidates through our hiring pipeline
-* Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
-* Utilized ReactJS with Aspnet WebAPI and Serverless/Azure Functions backends to wire up rich client experiences
-* Refactored and tuned Extract-Transform-Load process for client data warehousing project in SQL Server and Reporting Services
-
 ### [U.S. Army](https://www.goarmy.com/), [Florida Army National Guard](https://state.nationalguard.com/florida)
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
 
@@ -75,6 +62,19 @@ title: Matt G. Wagner - Resume
 * Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
 * Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
 * Basic Combat Training, Fort Sill, OK  (2011)
+
+### [MercuryWorks](http://www.mercuryworks.com/) - Tampa, FL
+**Principal Software Engineer** - August 2017 - April 2020
+
+* Solution Architect and Technical Lead for team of 5+ cross-disciplinary engineers and product owner
+* Primary mentor for junior and senior application development craftsmen, responsible for coaching and career development 
+* Tech Lead for Backend Developers Guild, facilitating lunch-and-learn sessions and cross-functional knowledge sharing
+* Responsible for Screening, Interviewing, and Onboarding New Engineers, utilizing Jazz HR
+* Partnered with Product Owners to groom, plan, and manage team workflow via Azure DevOps
+* Designed Applicant Code Screen to improve Signal-to-Noise ratio for New Candidates through our hiring pipeline
+* Balanced development efforts across multiple concurrent projects and clients while maintaining focus on quality outputs
+* Utilized ReactJS with Aspnet WebAPI and Serverless/Azure Functions backends to wire up rich client experiences
+* Refactored and tuned Extract-Transform-Load process for client data warehousing project in SQL Server and Reporting Services
 
 ### [CertiPay](https://certipay.com) - Winter Haven, FL (Remote Worker)
 **Principal Software Engineer** -- October 2014 - August 2017
