@@ -58,6 +58,7 @@ title: Matt G. Wagner - Resume
 
 #### Training & Schools 
 
+* IS-00230.d - Fundementals of Emergency Management (FEMA)
 * Field Artillery Captain's Career Course, Fort Sill, OK (2017-2019)
 * Field Artillery Basic Officer Leadership Course, Fort Sill, OK (2014)  
 * Officer Candidate School, Florida Regional Training Institute, Camp Blanding Joint Training Center  (2012, 2013)  
