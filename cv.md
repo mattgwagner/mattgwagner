@@ -23,16 +23,15 @@ title: Matt G. Wagner - Resume
 
 ## Technical Skills
 
-* Primary Language / Ecosystem: C# / .NET, PowerShell, Azure
+* Primary Language / Ecosystem: C# / .NET, Microsoft Azure
 * Active U.S Government Security Clearance
-* Professional Mentoring, Organizational Leadership
-* Kanban-style Project Management and Agile Workflow
-* Source Control: Git, Mercurial, Subversion  
+* Professional Coaching, Organizational Leadership. 
+* Agile Project Management (Scrum & Kanban) via Azure DevOps, JIRA, Trello
 * API Design and Documentation: REST, Swagger/OpenAPI specifications
-* Build & Deployment Systems: Azure DevOps, AppVeyor, TeamCity, Jenkins, Docker  
-* Distributed Caching and Messaging via Redis  
+* Build & Deployment Systems: Azure DevOps, AppVeyor, TeamCity, Jenkins, Docker
+* Distributed Caching and Messaging via Redis
 * Systems Administration: Microsoft Windows Server 2003-2019, Ubuntu, Mac OS
-* Front-end Frameworks such as ReactJS and Knockout.js
+* Front-end Frameworks such as Blazor, ReactJS and Knockout.js
 * Utilized Packer and Vagrant for reproducible Developer Environments
 
 ## Professional Experience
