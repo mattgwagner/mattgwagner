@@ -37,10 +37,11 @@ title: Matt G. Wagner - Resume
 
 ## Professional Experience
 
-### [Red Leg Dev, LLC](https://www.red-leg-dev.com)
-**Owner, Principal Engineer** - June, 2018 - Present
+### [Red Leg Dev, LLC](https://redleg.dev)
+**Owner, Director of Engineeringing** - June, 2018 - Present
 
-* Provide software engineering and organizational leadership consulting services to small and medium sized business clients
+* Designed and provided customized technical leadership development programs to clients, and direct coaching of their leadership teams
+* Custom software engineering and consulting services to small and medium sized business clients
 * Self-driven work, drove User Stories and feature requests to completion utilizing a variety of technical skills, ranging from business-driven PDF form generation to Azure AD and OpenID Connect SSO implementations
 * Experience with time-tracking and reporting, producing client invoices and handling bookkeeping
 * Building custom integrations and financial analysis tools with Procore construction management APIs with OAuth
@@ -48,7 +49,7 @@ title: Matt G. Wagner - Resume
 ### [U.S. Army](https://www.goarmy.com/), [Florida Army National Guard](https://state.nationalguard.com/florida)
 **MOS 13A, Field Artillery Officer** - September, 2011 - Present  
 
-* Currently serving as Commander for M777A2 artillery battery, leading 65+ Soldiers and responsible for $10mm+ of equipment
+* Currently serving as Commander for M777A2 artillery battery, responsible for leading 85+ Soldiers and $10mm+ of equipment
 * Experience in operational planning, organizational leadership, logistical support, mentoring, and personnel development
 * Performed on-the-ground tactical leadership of a Field Artillery firing battery during numerous live fire operations
 * Commanded and coordinated 80+ Soldiers during training and state emergency response operations, including three major catastrophic hurricanes
