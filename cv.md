@@ -17,7 +17,7 @@ title: Matt G. Wagner - Resume
 
 ## Summary
 
-**I am an experienced and enthusiastic technical leader, serving as architect and mentor on distributed engineering teams for over ten years. I have experience in companies ranging from the Fortune 50 to start-ups, coupled with over eight years of service as an Officer in the U.S. Army and Florida National Guard. I have experience as an on-the-ground commander and coordinator of National Guard Soldiers serving in emergency response situations. I am passionate about my profession, endeavoring to produce outstanding results in whatever I'm tasked to do.**
+**I am an experienced and enthusiastic technical leader, serving as architect and mentor on distributed engineering teams for over ten years. I have experience in companies ranging from the Fortune 50 to start-ups, coupled with almost ten years of service as an Officer in the U.S. Army and Florida National Guard. I have experience as an on-the-ground commander and coordinator of National Guard Soldiers serving in emergency response situations. I am passionate about my profession, endeavoring to produce outstanding results in whatever I'm tasked to do.**
 
 ----------
 
