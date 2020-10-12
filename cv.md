@@ -170,6 +170,14 @@ title: Matt G. Wagner - Resume
 
 Lead redesign of core public-facing website to include integrating newsletter handling, membership database, event coordination, and photo album sharing. Implemented event registration and reporting for key membership activites.
 
+### Avengercon V - "Rapid Application Development for Emergency Response Scenarios" - December 2020
+
+Rapid application development tools, sometimes referred to as "low code" or "no-code" in common buzzword, provide a clear boost when you need to quickly adapt to a changing situation on the ground during an emergency response situation. Higher headquarters information gathering requirements change, reporting formats proliferate, and oftentimes the Tactical Operations Center is left massaging data from emails, texts, and attached spreadsheets into the format of the day.
+
+In this talk, I will provide an introduction to some tools which I've found useful on the marketplace that you can use to help consolidate and assist in "battle tracking", including the development of one unit's information management workflow from email thread to spreadsheet to single, unified Common Operating Picture, available securely to provide visibility to all echelons of the battalion.
+
+As a Florida National Guardsman, I have responded to 5 hurricanes with the state and I will show you some tricks for helping evolve your data management quickly.
+
 ### Great American Teach In - Speaker - [Slides](https://docs.google.com/presentation/d/1fh9LzLK---iwmaeZr9i871KvtWVT8OvvJCZ8jYFndRU/edit?usp=sharing)
 
 The Great American Teach-In is an annual event coordinated by the Polk County Public Schools’ Department of Public Relations and Strategic Partnerships to celebrate American Education Week.
