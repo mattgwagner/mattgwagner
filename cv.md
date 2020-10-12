@@ -6,10 +6,9 @@ title: Matt G. Wagner - Resume
 # Matt G. Wagner - Resume
 
 **Email:** [Resume@MattGWagner.com](mailto:Resume@MattGWagner.com)  
-**Mobile:** [813-413-6839](tel:+18134136839)  
+**Connect:** [LinkedIn](https://www.linkedin.com/in/mattgwagner)  
 **Code:** [GitHub](https://github.com/mattgwagner)  
 **Web:** [MattGWagner.com](http://mattgwagner.com)  
-**Connect:** [LinkedIn](https://www.linkedin.com/in/mattgwagner)
 
 <a href="http://stackoverflow.com/cv/mattgwagner">
   <img src="http://stackoverflow.com/users/flair/51270.png" width="208" height="58" alt="profile for MattGWagner at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MattGWagner at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
