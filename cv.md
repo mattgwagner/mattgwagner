@@ -26,21 +26,21 @@ title: Matt G. Wagner - Resume
 * Primary Language / Ecosystem: C# / .NET, Microsoft Azure
 * Active U.S Government Security Clearance
 * Professional Coaching, Organizational Leadership. 
-* Agile Project Management (Scrum & Kanban) via Azure DevOps, JIRA, Trello
+* Agile Project Management (Traditional Scrum & Kanban) via Azure DevOps, JIRA, Trello
+* Front-end Frameworks such as Blazor, ReactJS and Knockout.js
 * API Design and Documentation: REST, Swagger/OpenAPI specifications
 * Build & Deployment Systems: Azure DevOps, AppVeyor, TeamCity, Jenkins, Docker
 * Distributed Caching and Messaging via Redis
-* Systems Administration: Microsoft Windows Server 2003-2019, Ubuntu, Mac OS
-* Front-end Frameworks such as Blazor, ReactJS and Knockout.js
+* Systems Administration: Microsoft Windows Server 2003-2019+, Ubuntu, Mac OS
 * Utilized Packer and Vagrant for reproducible Developer Environments
 
 ## Professional Experience
 
 ### [Red Leg Dev, LLC](https://redleg.dev)
-**Owner, Director of Engineeringing** - June, 2018 - Present
+**Owner, Director of Engineering** - June, 2018 - Present
 
-* Designed and provided customized technical leadership development programs to clients, and direct coaching of their leadership teams
-* Custom software engineering and consulting services to small and medium sized business clients
+* Designed and facilitated tailored technical leadership development programs to clients including direct coaching of their leadership teams
+* Provided custom software engineering and consulting services to small and medium sized business clients
 * Self-driven work, drove User Stories and feature requests to completion utilizing a variety of technical skills, ranging from business-driven PDF form generation to Azure AD and OpenID Connect SSO implementations
 * Experience with time-tracking and reporting, producing client invoices and handling bookkeeping
 * Building custom integrations and financial analysis tools with Procore construction management APIs with OAuth
