@@ -7,11 +7,11 @@
 
 <h3 align="center">A software engineer and leadership coach from great state of Florida</h3>
 
-<p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/mattgwagner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mattgwagner" height="50"/></a>
-<a href="https://stackoverflow.com/users/51270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="51270" height="50" /></a>
-</p>
+<div align="center">
+    <a href="https://linkedin.com/in/mattgwagner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mattgwagner" height="50"/></a>
+  <a href="https://stackoverflow.com/users/51270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="51270" height="50" /></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattgwagner&label=Profile%20views&color=0e75b6&style=flat" alt="mattgwagner" /> </p>
 
