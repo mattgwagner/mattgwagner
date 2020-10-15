@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattgwagner&label=Profile%20views&color=0e75b6&style=flat" alt="mattgwagner" /> </p>
 
+<a href="https://redleg.dev" target="blank"><img align="center" src="https://lh6.googleusercontent.com/5JLwWDbR06HGkbuxDzRJM3RkwjVlFRyta8ZfDHLJ4UphFwTuHnUOZgwCwSMoFgWS6OnKTPE=w16383" alt="mattgwagner" height="100"/></a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattgwagner" alt="mattgwagner" /></a> </p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://redleg.dev" target="blank"><img align="center" src="https://lh6.googleusercontent.com/5JLwWDbR06HGkbuxDzRJM3RkwjVlFRyta8ZfDHLJ4UphFwTuHnUOZgwCwSMoFgWS6OnKTPE=w16383" alt="mattgwagner" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mattgwagner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mattgwagner" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/51270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="51270" height="30" width="40" /></a>
 </p>
