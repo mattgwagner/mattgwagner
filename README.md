@@ -7,7 +7,7 @@
 
 <h3 align="center">A software engineer and leadership coach from great state of Florida</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="center">
     <a href="https://linkedin.com/in/mattgwagner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mattgwagner" height="50"/></a>
   <a href="https://stackoverflow.com/users/51270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="51270" height="50" /></a>
