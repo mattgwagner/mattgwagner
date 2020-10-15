@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">A software engineer and leadership coach from Florida</h3>
 
-<a href="https://redleg.dev" target="blank" align="center"><img src="https://lh6.googleusercontent.com/5JLwWDbR06HGkbuxDzRJM3RkwjVlFRyta8ZfDHLJ4UphFwTuHnUOZgwCwSMoFgWS6OnKTPE=w16383" alt="mattgwagner" height="100"/></a>
-
+<h4 align="center">
+  <a href="https://redleg.dev" target="blank">
+    <img src="https://lh6.googleusercontent.com/5JLwWDbR06HGkbuxDzRJM3RkwjVlFRyta8ZfDHLJ4UphFwTuHnUOZgwCwSMoFgWS6OnKTPE=w16383" alt="mattgwagner" height="100"/>    </a>
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattgwagner&label=Profile%20views&color=0e75b6&style=flat" alt="mattgwagner" /> </p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattgwagner" alt="mattgwagner" /></a> </p>
 
