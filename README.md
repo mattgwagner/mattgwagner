@@ -2,7 +2,7 @@
 
 <h4 align="center">
   <a href="https://redleg.dev" target="blank">
-    <img src="https://drive.google.com/file/d/16_xF6ksvN7NLBE_PkX40n9WCfY2vNTUX/preview" alt="mattgwagner" height="100"/>    </a>
+    <img src="https://mattgwagner.com/images/Red%20Leg%20Dev%20Logo.png" alt="mattgwagner" height="100"/>    </a>
 </h4>
 
 <h3 align="center">A software engineer and leadership coach from great state of Florida</h3>
