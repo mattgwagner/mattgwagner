@@ -50,7 +50,7 @@ title: Matt G. Wagner - Resume
 * Currently serving as Commander for M777A2 artillery battery, responsible for leading 85+ Soldiers and $10mm+ of equipment
 * Experience in operational planning, organizational leadership, logistical support, mentoring, and personnel development
 * Performed on-the-ground tactical leadership of a Field Artillery firing battery during numerous live fire operations
-* Commanded and coordinated 80+ Soldiers during training and state emergency response operations, including three major catastrophic hurricanes
+* Commanded and coordinated 80+ Soldiers during training and state emergency response operations, including five major catastrophic hurricanes and two presidential inaugurations
 * U.S. Government Security Clearance
 * Served as a Commander, Executive Officer, Platoon Leader, and Fire Direction Officer with collateral duties as the Knowledge Management Officer and Safety Officer
 * NATO Allied Rapid Response Cell exercise experience including coordination and training via Operation Dynamic Front 18 in Germany
@@ -173,6 +173,8 @@ Rapid application development tools, sometimes referred to as "low code" or "no-
 In this talk, I will provide an introduction to some tools which I've found useful on the marketplace that you can use to help consolidate and assist in "battle tracking", including the development of one unit's information management workflow from email thread to spreadsheet to single, unified Common Operating Picture, available securely to provide visibility to all echelons of the battalion.
 
 As a Florida National Guardsman, I have responded to 5 hurricanes with the state and I will show you some tricks for helping evolve your data management quickly.
+
+[Video Link](https://www.youtube.com/watch?v=XRkU8iNz1QM)
 
 ### [Gator Redleg Chapter of the U.S Field Artillery Association](https://www.gatorredleg.org) - Web Architect, Board Member
 
