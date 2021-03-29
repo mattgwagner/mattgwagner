@@ -26,6 +26,7 @@ title: Matt G. Wagner - Resume
 * Active U.S Government Security Clearance
 * Professional Coaching, Organizational Leadership. 
 * Agile Project Management (Traditional Scrum & Kanban) via Azure DevOps, JIRA, Trello
+* Databases: SQL Server, SQLite, PostgreSQL, Cosmos DB
 * Front-end Frameworks such as Blazor, ReactJS and Knockout.js
 * API Design and Documentation: REST, Swagger/OpenAPI specifications
 * Build & Deployment Systems: Azure DevOps, AppVeyor, TeamCity, Jenkins, Docker
