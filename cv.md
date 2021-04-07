@@ -43,6 +43,7 @@ title: Matt G. Wagner - Resume
 * Provided custom software engineering and consulting services to small and medium sized business clients
 * Self-driven work, drove User Stories and feature requests to completion utilizing a variety of technical skills, ranging from business-driven PDF form generation to Azure AD and OpenID Connect SSO implementations
 * Experience with time-tracking and reporting, producing client invoices and handling bookkeeping
+* Built highly-interactive and responsive user interfaces using Blazor Web Assembly and OpenAPI-defined Dotnet backends
 * Building custom integrations and financial analysis tools with Procore construction management APIs with OAuth
 
 ### [U.S. Army](https://www.goarmy.com/), [Florida Army National Guard](https://state.nationalguard.com/florida)
