@@ -2,7 +2,7 @@
 
 <h4 align="center">
   <a href="https://redleg.dev" target="blank">
-    <img src="https://lh6.googleusercontent.com/o90pGXPH3hRfMZZU5TWH-zwNbJLVl42nQlkbIW-wZIwm9G3o-5FC2XSNRDbwKUp9WkCPQpBYgCalDrlvoB0apsak-_LZOSC0L_wH2IUDHB13AvfFSYEe3vkHhff2nezddw=w1280" alt="mattgwagner" height="300"/>    </a>
+    <img src="https://github.com/mattgwagner/mattgwagner/raw/master/images/Red%20Leg%20Dev%20Logo.png" alt="mattgwagner" height="300"/>    </a>
 </h4>
 
 <h3 align="center">A software engineer and leadership coach from great state of Florida</h3>
