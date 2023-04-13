@@ -5,9 +5,9 @@
     <img src="https://github.com/mattgwagner/mattgwagner/raw/master/images/Red%20Leg%20Dev%20Logo.png" alt="mattgwagner" height="300"/>    </a>
 </h4>
 
-<h3 align="center">A software engineer and leadership coach from great state of Florida</h3>
+<h3 align="center">A software architect and team leader from the Sunshine State</h3>
 
-<h4>I work with development teams and technical leaders to help grow their leadership skills and their teams skills.</h4>
+<h4>I work with software teams and tech leads to help grow their coaching and architectural skills.</h4>
 
 <h3 align="center">Connect with me:</h3>
 
