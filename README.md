@@ -7,7 +7,7 @@
 
 <h3 align="center">A software architect and team leader from the Sunshine State</h3>
 
-<h4>I work with software teams and tech leads to help grow their coaching and architectural skills.</h4>
+<h4 align="center">I work with software teams and tech leads to help grow their coaching and architectural skills.</h4>
 
 <h3 align="center">Connect with me:</h3>
 
